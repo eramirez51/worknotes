@@ -8,7 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33daae1997f49211",
+            "id": "ecaea6f6d129ee89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System-Dataops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "601f2be64b8da562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eefd751932c5bd9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System-Libu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05b10d6d6bedae75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd01018e4b1eb1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c83b46dcf2c04a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -49,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "2023-03-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "2023-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-28.md"
+                "file": "2023-03-30.md"
               }
             }
           },
@@ -156,21 +217,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33daae1997f49211",
+  "active": "05b10d6d6bedae75",
   "lastOpenFiles": [
-    "Pasted image 20230328095011.png",
-    "2023-03-27.md",
-    "2023-03-28.md",
-    "Project-Spotv.md",
-    "System-Openstack-Kubes.md",
+    "TODOs.md",
+    "2023-03-30.md",
+    "2023-03-29.md",
+    "System-Libu.md",
     "System-Dataops.md",
-    "System-Dataops.svg",
     "Project-Book-Autoalt.md",
+    "2023-03-28.md",
+    "Untitled 4.canvas",
+    "Algorithm-2tower.md",
+    "Project-Semantic Layer.md",
+    "System-Openstack-Kubes.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "System-Airflow Cloud SQL Database.md",
+    "2023-03-27.md",
+    "System-Dataops.svg",
+    "SOP-Clear Cache.md",
+    "Pasted image 20230328095011.png",
+    "Project-Spotv.md",
     "Paravi.md",
     "Minions.md",
     "M.md",
     "System-Airflow.md",
-    "System-Airflow Cloud SQL Database.md",
     "Untitled.canvas",
     "Airflow System.svg"
   ]
