@@ -1,0 +1,1 @@
+![[AutoaltViewModelDiagram.svg]]

@@ -2,7 +2,7 @@
 
 # Productionizaton ToDo
 - [ ] Setup starship-app-charts common virtual service for [books](https://github.com/u-next/starship-app-charts/blob/staging/kube/gateway/templates/virtual_service_book.yaml)
-- [ ] Increase reco count to 50 ([code:](https://github.com/u-next/ds-autoaltmakers/blob/book_autoaltsynced/src/autoaltmakers/autoaltmakers/alt/horizontal_ranking.py#L318))
+- [x] Increase reco count to 50 ([code:](https://github.com/u-next/ds-autoaltmakers/blob/book_autoaltsynced/src/autoaltmakers/autoaltmakers/alt/horizontal_ranking.py#L318)) ✅ 2023-04-25
 - [ ] Create the API specification wiki to communicate to CMS team
 
 # Metrics

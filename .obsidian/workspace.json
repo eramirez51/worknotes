@@ -4,23 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2fc0e04469e66c",
-        "type": "tabs",
+        "id": "5c08825b11bcf9d4",
+        "type": "split",
         "children": [
           {
-            "id": "4f6d61cb2e880f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project-Book-Autoalt.md",
-                "mode": "source",
-                "source": false
+            "id": "1376d6195a7e4a02",
+            "type": "tabs",
+            "dimension": 66.3157894736842,
+            "children": [
+              {
+                "id": "0c2bd01196286e78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project-Book-Autoalt.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3199e53cba062e1d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 Alts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8e0215ba2d813f3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Autoalt Dag Refactoring for 100 Alts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0004fa538affc12e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Minions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "76b37559e7995b04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "2fee6b55048f86e3",
+            "type": "tabs",
+            "dimension": 33.68421052631579,
+            "children": [
+              {
+                "id": "fbf9a185d7e5157f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/eugene/apps/notes/obsidian/worknotes",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 259,
+                        "data": "$ ls\r\n'100 Alts.md'\u001b[3C 2023-04-11.md\u001b[2C       Algorithm-2tower.md\u001b[22C  Flow.svg\u001b[22C       Paravi.md\u001b[24C  Project-Spotv.md\u001b[22C       System-Dataops.md\r\n 2023-03-27.md\u001b[2C 2023-04-18.md\u001b[2C      'Autoalt Dag Refactoring for 100 Alts.md'   Implementation.svg\u001b[12C      'Pasted image 20230328095011.png'  'Realtime Ranking.md'\u001b[18C       System-Dataops.svg\r\n 2023-03-28.md\u001b[2C 2023-04-19.md\u001b[2C       AutoaltViewModelDiagram.svg\u001b[14C 'Long term.md'\u001b[17C      'Pasted image 20230410141918.png'  'Remove aws-secrets from openstack-kube.md'   System-Libu.md\r\n 2023-03-29.md\u001b[2C 2023-04-27.md\u001b[2C      'Book Feed Consolidation Diagram.svg'\u001b[5C  Minions.md\u001b[20C       Project-Book-Autoalt.md\u001b[10C 'SOP-Clear Cache.md'\u001b[19C       System-Openstack-Kubes.md\r\n 2023-03-30.md\u001b[2C 2023-04-28.md\u001b[2C      'Book Feed Consolidation.md'\u001b[14C 'New Reco Flow.svg'\u001b[12C       Projects\u001b[25C 'System-Airflow Cloud SQL Database.md'        TODOs.md\r\n 2023-04-10.md\u001b[2C'Airflow System.svg'   Excalidraw\u001b[31C 'openstack aws-secrets diagram.svg'  'Project-Semantic Layer.md'\u001b[7C  System-Airflow.md\r\n$ pwd\r\n/home/eugene/apps/notes/obsidian/worknotes\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mpwd\u001b[0m                         \r\n/home/eugene/apps/notes/obsidian/worknotes\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[31;1mnotest\u001b[0m                                                                                                                \r\nzsh: command not found: notest\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \u001b[31;1mnotes\u001b[0m \r\nzsh: command not found: notes\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \u001b[32mvim\u001b[0m \u001b[4m~/.zshrc.min\r\n\u001b[38;5;39;1;24m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                            \u001b[38;5;101m17s\u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m            \r\nusage: git [--version] [--help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\n\r\nThese are common Git commands used in various situations:\r\n\r\nstart a working area (see also: git help tutorial)\r\n   clone     Clone a repository into a new directory\r\n   init      Create an empty Git repository or reinitialize an existing one\r\n\r\nwork on the current change (see also: git help everyday)\r\n   add       Add file contents to the index\r\n   mv        Move or rename a file, a directory, or a symlink\r\n   restore   Restore working tree files\r\n   rm        Remove files from the working tree and from the index\r\n\r\nexamine the history and state (see also: git help revisions)\r\n   bisect    Use binary search to find the commit that introduced a bug\r\n   diff      Show changes between commits, commit and working tree, etc\r\n   grep      Print lines matching a pattern\r\n   log       Show commit logs\r\n   show      Show various types of objects\r\n   status    Show the working tree status\r\n\r\ngrow, mark and tweak your common history\r\n   branch    List, create, or delete branches\r\n   commit    Record changes to the repository\r\n   merge     Join two or more development histories together\r\n   rebase    Reapply commits on top of another base tip\r\n   reset     Reset current HEAD to the specified state\r\n   switch    Switch branches\r\n   tag       Create, list, delete or verify a tag object signed with GPG\r\n\r\ncollaborate (see also: git help workflows)\r\n   fetch     Download objects and refs from another repository\r\n   pull      Fetch from and integrate with another repository or a local branch\r\n   push      Update remote refs along with associated objects\r\n\r\n'git help -a' and 'git help -g' list available subcommands and some\r\nconcept guides. See 'git help <command>' or 'git help <concept>'\r\nto read about a specific subcommand or concept.\r\nSee 'git help git' for an overview of the system.\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \u001b[32mwn\u001b[0m status\r\nfatal: not a git repository: '/home/eugene/apps/notes/obsidian/work/.git'\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \u001b[32mls\u001b[0m                                                                             \r\n100 Alts.md    2023-04-11.md       Algorithm-2tower.md                      \u001b[35;1mFlow.svg\u001b[0m                           Paravi.md                        \u001b[34;1mProjects\u001b[0m                                   System-Dataops.md\r\n2023-03-27.md  2023-04-18.md       Autoalt Dag Refactoring for 100 Alts.md  \u001b[35;1mImplementation.svg\u001b[0m                 \u001b[35;1mPasted image 20230328095011.png\u001b[0m  Realtime Ranking.md                        \u001b[35;1mSystem-Dataops.svg\r\n\u001b[0m2023-03-28.md  2023-04-19.md       \u001b[35;1mAutoaltViewModelDiagram.svg\u001b[0m              Long term.md                       \u001b[35;1mPasted image 20230410141918.png\u001b[0m  Remove aws-secrets from openstack-kube.md  System-Libu.md\r\n2023-03-29.md  2023-04-27.md       Book Feed Consolidation.md               Minions.md                         Project-Book-Autoalt.md          SOP-Clear Cache.md                         System-Openstack-Kubes.md\r\n2023-03-30.md  2023-04-28.md       \u001b[35;1mBook Feed Consolidation Diagram.svg\u001b[0m      \u001b[35;1mNew Reco Flow.svg\u001b[0m                  Project-Semantic Layer.md        System-Airflow.md                          TODOs.md\r\n2023-04-10.md  \u001b[35;1mAirflow System.svg\u001b[0m  \u001b[34;1mExcalidraw\u001b[0m                               \u001b[35;1mopenstack aws-secrets diagram.svg\u001b[0m  Project-Spotv.md                 System-Airflow Cloud SQL Database.md       \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mpwd\r\n\u001b[0m/home/eugene/apps/notes/obsidian/worknotes\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mvim\u001b[0m \u001b[4m~/.zshrc.min\r\n\u001b[38;5;39;1;24m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                            \u001b[38;5;101m25s\u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32msource\u001b[0m \u001b[4m~/.zshrc\u001b[0m                                                                     \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m       \r\nusage: git [--version] [--help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\n\r\nThese are common Git commands used in various situations:\r\n\r\nstart a working area (see also: git help tutorial)\r\n   clone     Clone a repository into a new directory\r\n   init      Create an empty Git repository or reinitialize an existing one\r\n\r\nwork on the current change (see also: git help everyday)\r\n   add       Add file contents to the index\r\n   mv        Move or rename a file, a directory, or a symlink\r\n   restore   Restore working tree files\r\n   rm        Remove files from the working tree and from the index\r\n\r\nexamine the history and state (see also: git help revisions)\r\n   bisect    Use binary search to find the commit that introduced a bug\r\n   diff      Show changes between commits, commit and working tree, etc\r\n   grep      Print lines matching a pattern\r\n   log       Show commit logs\r\n   show      Show various types of objects\r\n   status    Show the working tree status\r\n\r\ngrow, mark and tweak your common history\r\n   branch    List, create, or delete branches\r\n   commit    Record changes to the repository\r\n   merge     Join two or more development histories together\r\n   rebase    Reapply commits on top of another base tip\r\n   reset     Reset current HEAD to the specified state\r\n   switch    Switch branches\r\n   tag       Create, list, delete or verify a tag object signed with GPG\r\n\r\ncollaborate (see also: git help workflows)\r\n   fetch     Download objects and refs from another repository\r\n   pull      Fetch from and integrate with another repository or a local branch\r\n   push      Update remote refs along with associated objects\r\n\r\n'git help -a' and 'git help -g' list available subcommands and some\r\nconcept guides. See 'git help <command>' or 'git help <concept>'\r\nto read about a specific subcommand or concept.\r\nSee 'git help git' for an overview of the system.\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \u001b[32mwn\u001b[0m status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/appearance.json\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/core-plugins-migration.json\r\n\u001b[8Cmodified:   .obsidian/core-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/drawio-obsidian/data.json\r\n\u001b[8Cmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/plugins/terminal/main.js\r\n\u001b[8Cmodified:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[8Cmodified:   .obsidian/plugins/terminal/styles.css\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   2023-03-27.md\r\n\u001b[8Cmodified:   Paravi.md\r\n\u001b[8Cmodified:   Project-Book-Autoalt.md\r\n\u001b[8Cdeleted:    Untitled 1.canvas\r\n\u001b[8Cdeleted:    Untitled 2.canvas\r\n\u001b[8Cdeleted:    Untitled 3.canvas\r\n\u001b[8Cdeleted:    Untitled 4.canvas\r\n\u001b[8Cdeleted:    Untitled.canvas\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/dataview/\r\n\u001b[8C.obsidian/plugins/excalibrain/\r\n\u001b[8C.obsidian/plugins/obsidian-day-planner/\r\n\u001b[8C.obsidian/plugins/obsidian-excalidraw-plugin/\r\n\u001b[8C100 Alts.md\r\n\u001b[8C2023-04-10.md\r\n\u001b[8C2023-04-11.md\r\n\u001b[8C2023-04-18.md\r\n\u001b[8C2023-04-19.md\r\n\u001b[8C2023-04-27.md\r\n\u001b[8C2023-04-28.md\r\n\u001b[8CAutoalt Dag Refactoring for 100 Alts.md\r\n\u001b[8CAutoaltViewModelDiagram.svg\r\n\u001b[8CBook Feed Consolidation Diagram.svg\r\n\u001b[8CBook Feed Consolidation.md\r\n\u001b[8CExcalidraw/\r\n\u001b[8CFlow.svg\r\n\u001b[8CImplementation.svg\r\n\u001b[8CLong term.md\r\n\u001b[8CNew Reco Flow.svg\r\n\u001b[8CPasted image 20230410141918.png\r\n\u001b[8CProjects/\r\n\u001b[8CRealtime Ranking.md\r\n\u001b[8CRemove aws-secrets from openstack-kube.md\r\n\u001b[8Copenstack aws-secrets diagram.svg\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!18 \u001b[38;5;39m?25\u001b[0m                                                                                                                                                                                                                \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add   \u001b[2D",
+                        "rows": 25
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -49,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,9 +165,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c222902bfebdfae1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Book-Autoalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-Book-Autoalt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project-Book-Autoalt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,9 +241,19 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ca4489739f6b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,21 +261,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "4f6d61cb2e880f87",
+  "active": "fbf9a185d7e5157f",
   "lastOpenFiles": [
+    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "Projects/100Alts",
+    "Projects",
+    "100 Alts.md",
+    "Excalidraw/Drawing 2023-11-10 06.51.07.excalidraw.md",
+    "Minions.md",
+    "Excalidraw",
+    "Implementation.svg",
+    "2023-04-28.md",
+    "openstack aws-secrets diagram.svg",
+    "AutoaltViewModelDiagram.svg",
+    "TODOs.md",
+    "Untitled Diagram 2.svg",
+    "Remove aws-secrets from openstack-kube.md",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 5.canvas",
+    "Book Feed Consolidation.md",
+    "Book Feed Consolidation Diagram.svg",
+    "Project-Book-Autoalt.md",
+    "Autoalt Dag Refactoring for 100 Alts.md",
+    "New Reco Flow.svg",
+    "Long term.md",
+    "Realtime Ranking.md",
+    "Flow.svg",
+    "2023-04-27.md",
     "2023-03-28.md",
     "2023-04-19.md",
     "2023-04-18.md",
-    "TODOs.md",
-    "Project-Book-Autoalt.md",
     "2023-04-10.md",
     "2023-03-29.md",
     "2023-04-11.md",
@@ -173,24 +316,6 @@
     "2023-04-04.md",
     "System-Dataops.md",
     "FAQ.md",
-    "System-Libu.md",
-    "Untitled 4.canvas",
-    "Algorithm-2tower.md",
-    "Project-Semantic Layer.md",
-    "System-Openstack-Kubes.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "System-Airflow Cloud SQL Database.md",
-    "System-Dataops.svg",
-    "SOP-Clear Cache.md",
-    "Pasted image 20230328095011.png",
-    "Project-Spotv.md",
-    "Paravi.md",
-    "Minions.md",
-    "M.md",
-    "System-Airflow.md",
-    "Untitled.canvas",
-    "Airflow System.svg"
+    "Untitled 3.canvas"
   ]
 }
