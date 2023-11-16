@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/100Alts/100 Alts.md",
+                    "file": "Projects/100Alts/100 Alts_Main.md",
                     "mode": "source",
                     "source": false
                   }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
+                    "file": "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
                     "mode": "source",
                     "source": false
                   }
@@ -96,9 +96,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 165,
-                        "data": "=\"120\" height=\"60\" fill=\"#2a2a2a\" stroke=\"#f0f0f0\" pointer-events=\"none\"/><g><foreignObject style=\"overflow: visible; text-align: left;\" pointer-events=\"none\" width=\"\u001b[31;1m100\u001b[0m%\" height=\"\u001b[31;1m100\u001b[0m%\"><div xmlns=\"http://www.w3.org/1999/xhtml\" style=\"display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 31px; margin-left: 2px;\"><div style=\"box-sizing: border-box; font-size: 0; text-align: center; \"><div style=\"display: inline-block; font-size: 12px; font-family: Helvetica; color: #f0f0f0; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; \">Airflow2Official</div></div></div></foreignObject></g></svg>\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?2\u001b[0m                                                                                                                                                  \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mrg\u001b[0m \u001b[33m\"100 alts\"\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?2\u001b[0m                                                                                                                                                  \u001b[38;5;37m b\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?2\u001b[0m                                                                                                                                        \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?2\u001b[0m                                                                                                                                                        \u001b[38;5;37m base\r\n\u001b[38;5;196m❯\u001b[0m \r\n * Restored history at Mon Nov 13 2023 06:35:01 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Mon Nov 13 2023 06:35:12 GMT+0900 (Japan Standard Time)\r\n\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!11 \u001b[38;5;39m?8\u001b[0m                                                                 \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Mon Nov 13 2023 06:55:57 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Mon Nov 13 2023 07:27:17 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n * Restored history at Tue Nov 14 2023 06:31:28 GMT+0900 (Japan Standard Time)\r\n\r\n$zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!11 \u001b[38;5;39m?8\u001b[0m                                                                                                                   \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m status          \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    100 Alts.md\r\n\u001b[8Cdeleted:    Autoalt Dag Refactoring for 100 Alts.md\r\n\u001b[8Cdeleted:    Book Feed Consolidation Diagram.svg\r\n\u001b[8Cdeleted:    Book Feed Consolidation.md\r\n\u001b[8Cmodified:   Minions.md\r\n\u001b[8Cdeleted:    Project-Book-Autoalt.md\r\n\u001b[8Cdeleted:    Project-Semantic Layer.md\r\n\u001b[8Cdeleted:    Project-Spotv.md\r\n\u001b[8Cmodified:   Projects/100Alts/Make AutoaltMakers to produce 100 per user.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mExcalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md\r\n\u001b[8CProjects/100Alts/100 Alts.md\r\n\u001b[8CProjects/100Alts/Autoalt Dag Refactoring for 100 Alts.md\r\n\u001b[8CProjects/Book Feed Consolidation/\r\n\u001b[8CProjects/Project-Book-Autoalt.md\r\n\u001b[8CProjects/Project-Semantic Layer.md\r\n\u001b[8CProjects/Project-Spotv.md\r\n\u001b[8CTechnologies/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!11 \u001b[38;5;39m?8\u001b[0m                                                                                                                   \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add \u001b[90m.\u001b[0m \u001b[2D",
-                        "rows": 12
+                        "columns": 142,
+                        "data": " notes\r\n 14 files changed, 434 insertions(+), 326 deletions(-)\r\n rewrite .obsidian/workspace.json (67%)\r\n delete mode 100644 Book Feed Consolidation.md\r\n create mode 100644 Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md\r\n rename 100 Alts.md => Projects/100Alts/100 Alts.md (100%)\r\n rename Autoalt Dag Refactoring for 100 Alts.md => Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md (100%)\r\n rename Book Feed Consolidation Diagram.svg => Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg (100%)\r\n create mode 100644 Projects/Book Feed Consolidation/Book Feed Consolidation.md\r\n rename Project-Book-Autoalt.md => Projects/Project-Book-Autoalt.md (100%)\r\n rename Project-Semantic Layer.md => Projects/Project-Semantic Layer.md (100%)\r\n rename Project-Spotv.md => Projects/Project-Spotv.md (100%)\r\n create mode 100644 Technologies/Apache Beam.md\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain ⇡1 \u001b[38;5;178m!1\u001b[0m                                                                                                                    \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m push origin main       \r\nEnumerating objects: 23, done.\r\nCounting objects: 100% (23/23), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (14/14), 5.39 KiB | 5.39 MiB/s, done.\r\nTotal 14 (delta 6), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (6/6), completed with 6 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   b047731..edf1fc9  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1\u001b[0m                                                                                                                       \u001b[38;5;37m \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                     \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                                                                                                                                                    \u001b[38;5;37m\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                                                                        \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                    \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m status          \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    Long term.md\r\n\u001b[8Cdeleted:    New Reco Flow.svg\r\n\u001b[8Cdeleted:    Projects/100Alts/100 Alts.md\r\n\u001b[8Cdeleted:    Realtime Ranking.md\r\n\u001b[8Cmodified:   Technologies/Apache Beam.md\r\n\u001b[8Cdeleted:    openstack aws-secrets diagram.svg\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/obsidian-tasks-plugin/data.json\r\n\u001b[8CDotFiles/\r\n\u001b[8CProjects/100Alts/100 Alts_Main.md\r\n\u001b[8CProjects/100Alts/Long term.md\r\n\u001b[8CProjects/100Alts/New Reco Flow.svg\r\n\u001b[8CProjects/RealTimeRanking/\r\n\u001b[8CSprintTasks/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!8 \u001b[38;5;39m?7\u001b[0m                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin mai",
+                        "rows": 9
                       }
                     }
                   },
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 428.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -249,7 +249,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "aa52a292b0697987",
@@ -267,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,53 +284,56 @@
   },
   "active": "fbf9a185d7e5157f",
   "lastOpenFiles": [
-    "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
-    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
+    "Projects/RealTimeRanking/Realtime Ranking_Main.md",
+    "SprintTasks/Kredo/openstack aws-secrets diagram.svg",
+    "SprintTasks/Kredo",
+    "SprintTasks",
+    "Projects/100Alts/100 Alts_Main.md",
     "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
-    "Projects/100Alts/100 Alts.md",
+    "Projects/RealTimeRanking",
+    "Projects/100Alts/Long term.md",
+    "Projects/100Alts/New Reco Flow.svg",
+    "Minions.md",
+    "Implementation.svg",
+    "Pasted image 20230410141918.png",
+    "Pasted image 20230328095011.png",
+    "TODOs.md",
+    "System-Airflow.md",
+    "SOP-Clear Cache.md",
+    "Flow.svg",
+    "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
+    "DotFiles/Qtile/Qtile.md",
+    "DotFiles/Qtile",
+    "DotFiles",
     "Technologies/Apache Beam.md",
+    "Projects/100Alts/Tests/When Running 100 ALTs.md",
+    "Projects/100Alts/Tests",
+    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
     "2023-03-27.md",
     "System-Airflow Cloud SQL Database.md",
     "Systems",
     "System-Dataops.md",
-    "System-Airflow.md",
     "Projects/Project-Book-Autoalt.md",
-    "Pasted image 20230410141918.png",
-    "Pasted image 20230328095011.png",
     "Technologies",
     "Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg",
     "Projects/Book Feed Consolidation",
-    "Minions.md",
     "Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
     "Untitled Diagram.svg",
     "Projects/100Alts",
-    "Projects",
     "Excalidraw/Drawing 2023-11-10 06.51.07.excalidraw.md",
-    "Excalidraw",
-    "Implementation.svg",
     "2023-04-28.md",
-    "openstack aws-secrets diagram.svg",
     "AutoaltViewModelDiagram.svg",
-    "TODOs.md",
     "Untitled Diagram 2.svg",
     "Remove aws-secrets from openstack-kube.md",
-    "Untitled Diagram 1.svg",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 5.canvas",
-    "New Reco Flow.svg",
-    "Long term.md",
-    "Realtime Ranking.md",
     "2023-04-27.md",
     "2023-03-28.md",
     "2023-04-19.md",
-    "2023-04-18.md",
-    "2023-04-10.md",
-    "2023-03-29.md",
-    "2023-04-11.md",
-    "2023-03-30.md",
     "Untitled 3.canvas"
   ]
 }

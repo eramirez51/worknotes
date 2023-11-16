@@ -12,6 +12,24 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
+    "293c5856-094f-4872-a1ad-7960e9434248": {
+      "args": [],
+      "executable": "/bin/zsh",
+      "name": "",
+      "platforms": {
+        "darwin": true,
+        "linux": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
     "darwinExternalDefault": {
       "args": [],
       "executable": "/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal",
