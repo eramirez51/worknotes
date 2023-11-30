@@ -4,69 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "5c08825b11bcf9d4",
+        "id": "aaa8f1bccc62012d",
         "type": "split",
         "children": [
           {
-            "id": "1376d6195a7e4a02",
+            "id": "2fee6b55048f86e3",
             "type": "tabs",
-            "dimension": 75.08771929824562,
+            "dimension": 73.6331569664903,
             "children": [
               {
-                "id": "0c2bd01196286e78",
+                "id": "0c8b5900c2ed347b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/Project-Book-Autoalt.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3199e53cba062e1d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/100Alts/100 Alts_Main.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8e0215ba2d813f3f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0004fa538affc12e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
+                    "file": "Technologies/Apache Beam.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
-            "id": "2fee6b55048f86e3",
+            "id": "a6edd366951dd2e6",
             "type": "tabs",
-            "dimension": 24.91228070175439,
+            "dimension": 26.366843033509703,
             "children": [
               {
                 "id": "fbf9a185d7e5157f",
@@ -96,9 +59,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 142,
-                        "data": " notes\r\n 14 files changed, 434 insertions(+), 326 deletions(-)\r\n rewrite .obsidian/workspace.json (67%)\r\n delete mode 100644 Book Feed Consolidation.md\r\n create mode 100644 Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md\r\n rename 100 Alts.md => Projects/100Alts/100 Alts.md (100%)\r\n rename Autoalt Dag Refactoring for 100 Alts.md => Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md (100%)\r\n rename Book Feed Consolidation Diagram.svg => Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg (100%)\r\n create mode 100644 Projects/Book Feed Consolidation/Book Feed Consolidation.md\r\n rename Project-Book-Autoalt.md => Projects/Project-Book-Autoalt.md (100%)\r\n rename Project-Semantic Layer.md => Projects/Project-Semantic Layer.md (100%)\r\n rename Project-Spotv.md => Projects/Project-Spotv.md (100%)\r\n create mode 100644 Technologies/Apache Beam.md\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain ⇡1 \u001b[38;5;178m!1\u001b[0m                                                                                                                    \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m push origin main       \r\nEnumerating objects: 23, done.\r\nCounting objects: 100% (23/23), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (14/14), 5.39 KiB | 5.39 MiB/s, done.\r\nTotal 14 (delta 6), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (6/6), completed with 6 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   b047731..edf1fc9  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1\u001b[0m                                                                                                                       \u001b[38;5;37m \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                     \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                                                                                                                                                    \u001b[38;5;37m\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                                                                        \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                                    \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!4 \u001b[38;5;39m?1\u001b[0m                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m status          \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    Long term.md\r\n\u001b[8Cdeleted:    New Reco Flow.svg\r\n\u001b[8Cdeleted:    Projects/100Alts/100 Alts.md\r\n\u001b[8Cdeleted:    Realtime Ranking.md\r\n\u001b[8Cmodified:   Technologies/Apache Beam.md\r\n\u001b[8Cdeleted:    openstack aws-secrets diagram.svg\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/obsidian-tasks-plugin/data.json\r\n\u001b[8CDotFiles/\r\n\u001b[8CProjects/100Alts/100 Alts_Main.md\r\n\u001b[8CProjects/100Alts/Long term.md\r\n\u001b[8CProjects/100Alts/New Reco Flow.svg\r\n\u001b[8CProjects/RealTimeRanking/\r\n\u001b[8CSprintTasks/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!8 \u001b[38;5;39m?7\u001b[0m                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin mai",
-                        "rows": 9
+                        "columns": 275,
+                        "data": "commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n[main e86fbea] Addtl notes\r\n 8 files changed, 85 insertions(+), 40 deletions(-)\r\n delete mode 100644 Long term.md\r\n delete mode 100644 New Reco Flow.svg\r\n delete mode 100644 Projects/100Alts/100 Alts.md\r\n delete mode 100644 Realtime Ranking.md\r\n delete mode 100644 openstack aws-secrets diagram.svg\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (10/10), done.\r\nWriting objects: 100% (11/11), 2.95 KiB | 2.95 MiB/s, done.\r\nTotal 11 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (7/7), completed with 7 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   edf1fc9..e86fbea  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                            \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                               \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n * Restored history at Fri Nov 17 2023 06:36:47 GMT+0900 (Japan Standard Time)\r\n\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                               \u001b[38;5;37m bas\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                          \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Mon Nov 20 2023 06:30:24 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Mon Nov 20 2023 06:53:32 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Fri Nov 24 2023 07:36:08 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Nov 28 2023 08:23:46 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Wed Nov 29 2023 07:32:50 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[17A\u001b[2C",
+                        "rows": 18
                       }
                     }
                   },
@@ -175,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 284.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -191,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technologies/Apache Beam.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technologies/Apache Beam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technologies/Apache Beam.md"
+              }
             }
           },
           {
@@ -282,18 +249,32 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fbf9a185d7e5157f",
+  "active": "0c8b5900c2ed347b",
   "lastOpenFiles": [
-    "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
+    "2023-03-27.md",
+    "Projects/Project-Book-Autoalt.md",
     "Projects/RealTimeRanking/Realtime Ranking_Main.md",
+    "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
+    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "Projects/100Alts/New Reco Flow.svg",
+    "Projects/100Alts/Long term.md",
+    "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
+    "Projects/100Alts/100 Alts_Main.md",
+    "Projects/Book Feed Consolidation/Fix URL pattern.md",
+    "Technologies/OpenTelemetry/main.md",
+    "Technologies/chezmoi/main.md",
+    "Technologies/OpenTelemetry",
+    "Technologies/qtile/main.md",
+    "Technologies/chezmoi",
+    "Technologies/Apache Beam.md",
+    "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
+    "Technologies/qtile",
+    "SprintTasks/Kredo/Kredo_Main.md",
+    "Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg",
     "SprintTasks/Kredo/openstack aws-secrets diagram.svg",
     "SprintTasks/Kredo",
     "SprintTasks",
-    "Projects/100Alts/100 Alts_Main.md",
-    "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
     "Projects/RealTimeRanking",
-    "Projects/100Alts/Long term.md",
-    "Projects/100Alts/New Reco Flow.svg",
     "Minions.md",
     "Implementation.svg",
     "Pasted image 20230410141918.png",
@@ -302,38 +283,24 @@
     "System-Airflow.md",
     "SOP-Clear Cache.md",
     "Flow.svg",
-    "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
     "DotFiles/Qtile/Qtile.md",
     "DotFiles/Qtile",
     "DotFiles",
-    "Technologies/Apache Beam.md",
     "Projects/100Alts/Tests/When Running 100 ALTs.md",
     "Projects/100Alts/Tests",
-    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
-    "2023-03-27.md",
     "System-Airflow Cloud SQL Database.md",
     "Systems",
     "System-Dataops.md",
-    "Projects/Project-Book-Autoalt.md",
-    "Technologies",
-    "Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg",
-    "Projects/Book Feed Consolidation",
     "Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
     "Untitled Diagram.svg",
-    "Projects/100Alts",
     "Excalidraw/Drawing 2023-11-10 06.51.07.excalidraw.md",
-    "2023-04-28.md",
     "AutoaltViewModelDiagram.svg",
     "Untitled Diagram 2.svg",
-    "Remove aws-secrets from openstack-kube.md",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 5.canvas",
-    "2023-04-27.md",
-    "2023-03-28.md",
-    "2023-04-19.md",
     "Untitled 3.canvas"
   ]
 }

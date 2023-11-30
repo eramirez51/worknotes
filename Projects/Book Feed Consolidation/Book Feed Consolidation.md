@@ -56,6 +56,7 @@ https://u-next.slack.com/archives/C9V96J8DP/p1699838925457589
 			おそらくCMS側が同じ作品２をclientにかえすことになります。
 
 
+
 # Questions to ask
 * Negotiate to use own code in `recommend_public_code`
 - Item poolings and logic for ranking, original comic, オススメ無料
