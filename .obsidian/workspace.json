@@ -10,7 +10,7 @@
           {
             "id": "2fee6b55048f86e3",
             "type": "tabs",
-            "dimension": 73.6331569664903,
+            "dimension": 23.830538393645188,
             "children": [
               {
                 "id": "0c8b5900c2ed347b",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Technologies/Apache Beam.md",
+                    "file": "2023-12-08.md",
                     "mode": "source",
                     "source": false
                   }
@@ -27,9 +27,26 @@
             ]
           },
           {
+            "id": "1b98e35781eed8d1",
+            "type": "tabs",
+            "dimension": 53.045013239188,
+            "children": [
+              {
+                "id": "d58da644af272a64",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Untitled Diagram.svg"
+                  }
+                }
+              }
+            ]
+          },
+          {
             "id": "a6edd366951dd2e6",
             "type": "tabs",
-            "dimension": 26.366843033509703,
+            "dimension": 23.124448367166814,
             "children": [
               {
                 "id": "fbf9a185d7e5157f",
@@ -59,9 +76,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 275,
-                        "data": "commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n[main e86fbea] Addtl notes\r\n 8 files changed, 85 insertions(+), 40 deletions(-)\r\n delete mode 100644 Long term.md\r\n delete mode 100644 New Reco Flow.svg\r\n delete mode 100644 Projects/100Alts/100 Alts.md\r\n delete mode 100644 Realtime Ranking.md\r\n delete mode 100644 openstack aws-secrets diagram.svg\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (10/10), done.\r\nWriting objects: 100% (11/11), 2.95 KiB | 2.95 MiB/s, done.\r\nTotal 11 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (7/7), completed with 7 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   edf1fc9..e86fbea  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                            \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                               \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n * Restored history at Fri Nov 17 2023 06:36:47 GMT+0900 (Japan Standard Time)\r\n\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                               \u001b[38;5;37m bas\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                          \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Mon Nov 20 2023 06:30:24 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Mon Nov 20 2023 06:53:32 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Fri Nov 24 2023 07:36:08 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Nov 28 2023 08:23:46 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Wed Nov 29 2023 07:32:50 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[17A\u001b[2C",
-                        "rows": 18
+                        "columns": 91,
+                        "data": "commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n[main e86fbea] Addtl notes\r\n 8 files changed, 85 insertions(+), 40 deletions(-)\r\n delete mode 100644 Long term.md\r\n delete mode 100644 New Reco Flow.svg\r\n delete mode 100644 Projects/100Alts/100 Alts.md\r\n delete mode 100644 Realtime Ranking.md\r\n delete mode 100644 openstack aws-secrets diagram.svg\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (10/10), done.\r\nWriting objects: 100% (11/11), 2.95 KiB | 2.95 MiB/s, done.\r\nTotal 11 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (7/7), completed with 7 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   edf1fc9..e86fbea  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                            \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                               \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n * Restored history at Fri Nov 17 2023 06:36:47 GMT+0900 (Japan Standard Time)\r\n\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                               \u001b[38;5;37m bas\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                          \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Mon Nov 20 2023 06:30:24 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Mon Nov 20 2023 06:53:32 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Fri Nov 24 2023 07:36:08 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Nov 28 2023 08:23:46 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Wed Nov 29 2023 07:32:50 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Thu Nov 30 2023 13:13:27 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Mon Dec 04 2023 07:06:18 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Dec 05 2023 06:55:36 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Dec 05 2023 12:33:21 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Wed Dec 06 2023 07:12:42 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Thu Dec 07 2023 07:49:09 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Fri Dec 08 2023 06:16:41 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\u001b[4A\u001b[2C",
+                        "rows": 5
                       }
                     }
                   },
@@ -154,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies/Apache Beam.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies/Apache Beam.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technologies/Apache Beam.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -217,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "aa52a292b0697987",
@@ -235,7 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +266,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0c8b5900c2ed347b",
+  "active": "d58da644af272a64",
   "lastOpenFiles": [
+    "2023-12-08.md",
+    "Untitled Diagram.svg",
+    "Technologies/Apache Beam.md",
     "2023-03-27.md",
     "Projects/Project-Book-Autoalt.md",
     "Projects/RealTimeRanking/Realtime Ranking_Main.md",
@@ -266,7 +286,6 @@
     "Technologies/OpenTelemetry",
     "Technologies/qtile/main.md",
     "Technologies/chezmoi",
-    "Technologies/Apache Beam.md",
     "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
     "Technologies/qtile",
     "SprintTasks/Kredo/Kredo_Main.md",
@@ -292,8 +311,6 @@
     "Systems",
     "System-Dataops.md",
     "Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-11-10 06.51.07.excalidraw.md",
     "AutoaltViewModelDiagram.svg",
     "Untitled Diagram 2.svg",
     "Untitled 4.canvas",
