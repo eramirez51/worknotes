@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aaa8f1bccc62012d",
-        "type": "split",
+        "id": "2fee6b55048f86e3",
+        "type": "tabs",
         "children": [
           {
-            "id": "2fee6b55048f86e3",
-            "type": "tabs",
-            "dimension": 23.799126637554586,
-            "children": [
-              {
-                "id": "0c8b5900c2ed347b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2023-12-08.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "0c8b5900c2ed347b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/100Alts/100 Alts_Main.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "1b98e35781eed8d1",
-            "type": "tabs",
-            "dimension": 30.131004366812224,
-            "children": [
-              {
-                "id": "d58da644af272a64",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Untitled Diagram.svg"
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "a6edd366951dd2e6",
-            "type": "tabs",
-            "dimension": 46.069868995633186,
-            "children": [
-              {
-                "id": "fbf9a185d7e5157f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/eugene/apps/notes/obsidian/worknotes",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/sh",
-                        "name": "",
-                        "platforms": {
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 91,
-                        "data": "commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n[main e86fbea] Addtl notes\r\n 8 files changed, 85 insertions(+), 40 deletions(-)\r\n delete mode 100644 Long term.md\r\n delete mode 100644 New Reco Flow.svg\r\n delete mode 100644 Projects/100Alts/100 Alts.md\r\n delete mode 100644 Realtime Ranking.md\r\n delete mode 100644 openstack aws-secrets diagram.svg\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (10/10), done.\r\nWriting objects: 100% (11/11), 2.95 KiB | 2.95 MiB/s, done.\r\nTotal 11 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (7/7), completed with 7 local objects.\r\nTo https://github.com/eramirez51/worknotes\r\n   edf1fc9..e86fbea  main -> main\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                            \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                                      \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?7\u001b[0m                                                                                                               \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mwn\u001b[0m add -u; \u001b[32mwn\u001b[0m commit -m \u001b[33m\"Addtl notes\"\u001b[0m; \u001b[32mwn\u001b[0m push origin main\r\n * Restored history at Fri Nov 17 2023 06:36:47 GMT+0900 (Japan Standard Time)\r\n\r\n$ zsh\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                               \u001b[38;5;37m bas\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                          \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m!3 \u001b[38;5;39m?8\u001b[0m                                                                                                             \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Mon Nov 20 2023 06:30:24 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Mon Nov 20 2023 06:53:32 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Fri Nov 24 2023 07:36:08 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Nov 28 2023 08:23:46 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Wed Nov 29 2023 07:32:50 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Thu Nov 30 2023 13:13:27 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Mon Dec 04 2023 07:06:18 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Dec 05 2023 06:55:36 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Tue Dec 05 2023 12:33:21 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n * Restored history at Wed Dec 06 2023 07:12:42 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Thu Dec 07 2023 07:49:09 GMT+0900 (Japan Standard Time)\r\n\r\n$ \r\n * Restored history at Fri Dec 08 2023 06:16:41 GMT+0900 (Japan Standard Time)\r\n\r\n$ git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n$ git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n$ git add .\r\n$ zsh       \r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m+1 !1\u001b[0m                                          \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m status                                        \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[8C\u001b[32mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/notes/obsidian/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[38;5;76mmain \u001b[38;5;178m+1 !1\u001b[0m                                          \u001b[38;5;37m base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[90m.\u001b[0m \u001b[2D",
-                        "rows": 17
-                      }
-                    }
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/100Alts/100 Alts_Main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/100Alts/100 Alts_Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/100Alts/100 Alts_Main.md"
+              }
             }
           },
           {
@@ -262,11 +197,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fbf9a185d7e5157f",
+  "active": "0c8b5900c2ed347b",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
-    "2023-12-08.md",
+    "Pasted image 20231214082226.png",
+    "Pasted image 20231214082135.png",
+    "Pasted image 20231213160722.png",
+    "Pasted image 20231213160504.png",
+    "Pasted image 20231213151033.png",
     "Technologies/Apache Beam.md",
+    "Projects/100Alts/100 Alts_Main.md",
+    "2023-12-08.md",
+    "Untitled Diagram.svg",
     "2023-03-27.md",
     "Projects/Project-Book-Autoalt.md",
     "Projects/RealTimeRanking/Realtime Ranking_Main.md",
@@ -275,7 +216,6 @@
     "Projects/100Alts/New Reco Flow.svg",
     "Projects/100Alts/Long term.md",
     "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
-    "Projects/100Alts/100 Alts_Main.md",
     "Projects/Book Feed Consolidation/Fix URL pattern.md",
     "Technologies/OpenTelemetry/main.md",
     "Technologies/chezmoi/main.md",
@@ -293,11 +233,9 @@
     "Minions.md",
     "Implementation.svg",
     "Pasted image 20230410141918.png",
-    "Pasted image 20230328095011.png",
     "TODOs.md",
     "System-Airflow.md",
     "SOP-Clear Cache.md",
-    "Flow.svg",
     "DotFiles/Qtile/Qtile.md",
     "DotFiles/Qtile",
     "DotFiles",
@@ -307,8 +245,6 @@
     "Systems",
     "System-Dataops.md",
     "Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
-    "AutoaltViewModelDiagram.svg",
-    "Untitled Diagram 2.svg",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
