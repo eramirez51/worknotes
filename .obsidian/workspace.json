@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 449.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -160,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -187,37 +189,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0c8b5900c2ed347b",
   "lastOpenFiles": [
+    "Projects/100Alts/files/Pasted image 20240207090431.png",
+    "Pasted image 20240207090326.png",
+    "Projects/100Alts/100 Alts_Main.md",
+    "Projects/100Alts/files",
+    "Projects/100Alts/files/Pasted image 20240207085741.png",
+    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "Projects/100Alts/New Reco Flow.svg",
+    "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
+    "AutoaltViewModelDiagram.svg",
+    "Technologies/OpenTelemetry/main.md",
     "Pasted image 20231214082226.png",
     "Pasted image 20231214082135.png",
     "Pasted image 20231213160722.png",
     "Pasted image 20231213160504.png",
     "Pasted image 20231213151033.png",
     "Technologies/Apache Beam.md",
-    "Projects/100Alts/100 Alts_Main.md",
     "2023-12-08.md",
     "Untitled Diagram.svg",
     "2023-03-27.md",
     "Projects/Project-Book-Autoalt.md",
     "Projects/RealTimeRanking/Realtime Ranking_Main.md",
     "Projects/Book Feed Consolidation/Book Feed Consolidation.md",
-    "Projects/100Alts/Make AutoaltMakers to produce 100 per user.md",
-    "Projects/100Alts/New Reco Flow.svg",
     "Projects/100Alts/Long term.md",
-    "Projects/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
     "Projects/Book Feed Consolidation/Fix URL pattern.md",
-    "Technologies/OpenTelemetry/main.md",
     "Technologies/chezmoi/main.md",
     "Technologies/OpenTelemetry",
     "Technologies/qtile/main.md",
@@ -225,14 +232,10 @@
     "SprintTasks/Kredo/Openstack aws-secrets cleanup.md",
     "Technologies/qtile",
     "SprintTasks/Kredo/Kredo_Main.md",
-    "Projects/Book Feed Consolidation/Book Feed Consolidation Diagram.svg",
-    "SprintTasks/Kredo/openstack aws-secrets diagram.svg",
     "SprintTasks/Kredo",
     "SprintTasks",
     "Projects/RealTimeRanking",
     "Minions.md",
-    "Implementation.svg",
-    "Pasted image 20230410141918.png",
     "TODOs.md",
     "System-Airflow.md",
     "SOP-Clear Cache.md",
@@ -242,7 +245,6 @@
     "Projects/100Alts/Tests/When Running 100 ALTs.md",
     "Projects/100Alts/Tests",
     "System-Airflow Cloud SQL Database.md",
-    "Systems",
     "System-Dataops.md",
     "Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
     "Untitled 4.canvas",
