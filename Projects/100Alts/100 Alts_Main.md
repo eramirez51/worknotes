@@ -1,3 +1,9 @@
+---
+id: 100 Alts_Main
+aliases: []
+tags: []
+---
+
 [[Make AutoaltMakers to produce 100 per user]]
 
 ## Test
