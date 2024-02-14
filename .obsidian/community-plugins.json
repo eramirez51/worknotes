@@ -8,5 +8,6 @@
   "obsidian-excalidraw-plugin",
   "excalibrain",
   "dataview",
-  "terminal"
+  "terminal",
+  "obsidian-relative-line-numbers"
 ]

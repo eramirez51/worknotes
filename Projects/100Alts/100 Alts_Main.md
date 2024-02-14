@@ -33,3 +33,7 @@ Writing concurrently results 3000ms p90latency at around, with latency peaks las
 
 
 ![[Pasted image 20240207090431.png]]
+
+
+This loadtest is using hybrid approach
+![[Pasted image 20240214095027.png]]
