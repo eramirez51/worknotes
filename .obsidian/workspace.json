@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
+                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
+                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
+                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,12 +71,28 @@
             "id": "fd066ac3baa2fb86",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f0d91e0c6bded6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 330.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -159,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md"
+              }
             }
           },
           {
@@ -254,11 +274,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fd066ac3baa2fb86",
+  "active": "93f0d91e0c6bded6",
   "lastOpenFiles": [
+    "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
+    "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
+    "00 - Inbox/100Alts/100 Alts_Main.md",
+    "00 - Inbox/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
+    "02 - Areas/Autoalt/HybridSolution.svg",
+    "01 - Projects/Hundred Alts/🎯 Load Test.md",
+    "00 - Inbox/100Alts/Long term.md",
+    "00 - Inbox/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "02 - Areas/Autoalt/Untitled.md",
     "02 - Areas/DBT",
-    "01 - Projects/Hundred Alts/Deploy to Prod.md",
-    "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
     "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
     "01 - Projects/Autoalt:Hundred Alts.md",
     "01 - Projects/Hundred Alts",
@@ -285,23 +312,15 @@
     "Untitled.md",
     "01 - Projects/🎯 Test.md",
     "Templates/Project Template",
-    "Templates/Project Template.md",
-    "01 - Projects/🎯 Something something.md",
-    "Templates",
-    "04 - Archives/2024-02-14-Archives/Algorithm-2tower.md",
-    "04 - Archives/2024-02-14-Archives/2023-03-28.md",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
-    "04 - Archives/2024-02-14-Archives/System-Airflow Cloud SQL Database.md",
-    "04 - Archives/2024-02-14-Archives/System-Airflow.md",
-    "04 - Archives/2024-02-14-Archives/Projects/100Alts/files/Pasted image 20240214095027.png",
-    "04 - Archives/2024-02-14-Archives/Projects/100Alts/files/Pasted image 20240207090431.png",
+    "01 - Projects/Hundred Alts/files/Pasted image 20240214095027.png",
+    "01 - Projects/Hundred Alts/files/Pasted image 20240207090431.png",
     "Pasted image 20240207090326.png",
-    "04 - Archives/2024-02-14-Archives/Projects/100Alts/files/Pasted image 20240207085741.png",
-    "04 - Archives/2024-02-14-Archives/Projects/100Alts/New Reco Flow.svg",
+    "01 - Projects/Hundred Alts/files/Pasted image 20240207085741.png",
+    "00 - Inbox/100Alts/New Reco Flow.svg",
     "04 - Archives/2024-02-14-Archives/AutoaltViewModelDiagram.svg",
     "04 - Archives/2024-02-14-Archives/Pasted image 20231214082226.png",
     "04 - Archives/2024-02-14-Archives/Pasted image 20231214082135.png",
-    "04 - Archives/2024-02-14-Archives/Pasted image 20231213160722.png",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

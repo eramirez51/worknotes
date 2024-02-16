@@ -36,7 +36,7 @@ Writing concurrently results 3000ms p90latency at around, with latency peaks las
 
 
 ![[Pasted image 20240207085741.png]]
-
+I tried loading the unjoined files to Bigtable
 
 ![[Pasted image 20240207090431.png]]
 
