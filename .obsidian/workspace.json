@@ -25,14 +25,46 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9922928b712b190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d48375e5ce8833ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58229b0392052966",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,10 +242,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bf986713ac3c2617",
+  "active": "58229b0392052966",
   "lastOpenFiles": [
-    "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
     "01 - Projects/Hundred Alts/Deploy to Prod.md",
+    "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
     "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
     "01 - Projects/Autoalt:Hundred Alts.md",
     "01 - Projects/Hundred Alts",
