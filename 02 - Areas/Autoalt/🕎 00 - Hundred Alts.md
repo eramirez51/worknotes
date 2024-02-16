@@ -25,7 +25,7 @@ table without id file.link AS "Archives"
 from "01 - Archives" and #Project and #Autoalt and #hundred_alts
 ```
 
-#  🧮 TODOs
+#  🧮 TODO s
 * Data Integrity Test
 * Acceptance Test
 * Load Test full dataset loading where Bigtable has more instance
