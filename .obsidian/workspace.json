@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 392.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -277,15 +277,18 @@
   "active": "93f0d91e0c6bded6",
   "lastOpenFiles": [
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-    "01 - Projects/Hundred Alts/🎯 Load Test.md",
-    "02 - Areas/Systems/Airflow/00 - System.md",
-    "02 - Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
+    "02 - Areas/Systems/Airflow/🕎 00 - System.md",
+    "04 - Archives/2024-02-14-Archives/SprintTasks/Kredo/Kredo_Main.md",
+    "04 - Archives/2024-02-14-Archives/Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
+    "04 - Archives/2024-02-14-Archives/Excalidraw/Drawing 2023-11-10 06.51.07.excalidraw.md",
+    "04 - Archives/2024-02-14-Archives/100 Alts_Main.md",
+    "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
     "00 - Inbox/100Alts/Make AutoaltMakers to produce 100 per user.md",
-    "00 - Inbox/100Alts/100 Alts_Main.md",
+    "02 - Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
+    "01 - Projects/Hundred Alts/🎯 Load Test.md",
     "02 - Areas/Systems/Reco/Exploratory System Design.md",
     "00 - Inbox/100Alts/New Reco Flow.svg",
     "02 - Areas/Systems/Airflow",
-    "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
     "02 - Areas/Systems/Reco",
     "02 - Areas/Systems",
     "02 - Areas/Autoalt/Autoalt.canvas",
@@ -312,9 +315,6 @@
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Untitled.md",
-    "01 - Projects/🎯 Test.md",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "01 - Projects/Hundred Alts/files/Pasted image 20240214095027.png",
     "01 - Projects/Hundred Alts/files/Pasted image 20240207090431.png",
