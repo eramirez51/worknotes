@@ -30,6 +30,10 @@ from "01 - Archives"
 where tags = "Project, Autoalt, hundred_alts"
 ```
 
+#  🧮 TODOs
+* Data Integrity Test
+* Acceptance Test
+
 # Performance
 
 * The DAG currently takes 8 hrs to load, where the x-ranking takes 1.5 hours, joining takes 1.5 hrs, and bigtable loading takes 1hr
