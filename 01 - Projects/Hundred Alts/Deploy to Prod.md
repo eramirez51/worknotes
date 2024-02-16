@@ -13,6 +13,7 @@ created: 16-02-2024 10:51
 * Argocd to staging: https://github.com/u-next/starship-argocd-applications/pull/107
 * Argocd to prod: https://github.com/u-next/starship-argocd-applications/pull/108
 * Autoalt VS path: https://github.com/u-next/starship-app-autoalt/pull/353
+* Autoalt VS path to main: https://github.com/u-next/starship-app-autoalt/pull/354
 
 # Test
 > [!tip]- References
