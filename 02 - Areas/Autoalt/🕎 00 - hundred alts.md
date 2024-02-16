@@ -30,6 +30,10 @@ from "01 - Archives"
 where tags = "Project, Autoalt, hundred_alts"
 ```
 
+# Performance
+
+* The DAG currently takes 8 hrs to load
+
 #  Major Blockers
 
 ## Support for legacy devices
