@@ -1,7 +1,7 @@
 ---
 created: 16-02-2024 13:07
 tags: Project, Autoalt, hundred_alts
-Area: Autoalt
+Area: Autoalt, hundred_alts
 status: In Progress
 priority: Medium
 scheduled: 

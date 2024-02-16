@@ -18,21 +18,21 @@ where tags = "Project, Autoalt, hundred_alts"
 
 
 ```dataview
-table without id file.link AS "Areas"
+table without id file.link AS "Epic"
 from "01 - Areas"
 where tags = "Project, Autoalt, hundred_alts"
 ```
 
 
 ```dataview
-table without id file.link AS "Hundred Alts"
+table without id file.link AS "Archives"
 from "01 - Archives"
 where tags = "Project, Autoalt, hundred_alts"
 ```
 
 # Performance
 
-* The DAG currently takes 8 hrs to load
+* The DAG currently takes 8 hrs to load, where the x-ranking takes 1.5 hours, joining takes 1.5 hrs, and bigtable loading takes 1hr
 
 #  Major Blockers
 

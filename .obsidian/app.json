@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "readableLineLength": false,
   "attachmentFolderPath": "./files",
   "promptDelete": false

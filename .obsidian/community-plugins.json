@@ -9,7 +9,7 @@
   "excalibrain",
   "dataview",
   "terminal",
-  "obsidian-relative-line-numbers",
   "templater-obsidian",
-  "obsidian-projects"
+  "obsidian-projects",
+  "obsidian-relative-line-numbers"
 ]

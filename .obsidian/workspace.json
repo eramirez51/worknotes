@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 296.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md"
+                "file": "02 - Areas/Autoalt/🕎 00 - hundred alts.md"
               }
             }
           },
@@ -276,14 +276,20 @@
   },
   "active": "93f0d91e0c6bded6",
   "lastOpenFiles": [
-    "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-    "00 - Inbox/100Alts/100 Alts_Main.md",
-    "00 - Inbox/100Alts/Autoalt Dag Refactoring for 100 Alts.md",
-    "02 - Areas/Autoalt/HybridSolution.svg",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
-    "00 - Inbox/100Alts/Long term.md",
+    "02 - Areas/Systems/Airflow/00 - System.md",
+    "02 - Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
     "00 - Inbox/100Alts/Make AutoaltMakers to produce 100 per user.md",
+    "00 - Inbox/100Alts/100 Alts_Main.md",
+    "02 - Areas/Systems/Reco/Exploratory System Design.md",
+    "00 - Inbox/100Alts/New Reco Flow.svg",
+    "02 - Areas/Systems/Airflow",
+    "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
+    "02 - Areas/Systems/Reco",
+    "02 - Areas/Systems",
+    "02 - Areas/Autoalt/Autoalt.canvas",
+    "02 - Areas/Autoalt/HybridSolution.svg",
     "02 - Areas/Autoalt/Untitled.md",
     "02 - Areas/DBT",
     "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
@@ -302,29 +308,24 @@
     "01 - Projects/Hundred Alts/Why You Should Be Taking More Notes.md",
     "01 - Projects/Hundred Alts/What I Learned From Taking 15,000 Notes.md",
     "01 - Projects/Hundred Alts/The Best Notes You'll Ever Make.md",
-    "01 - Projects/hundred_alts",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
     "Untitled.md",
     "01 - Projects/🎯 Test.md",
-    "Templates/Project Template",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "01 - Projects/Hundred Alts/files/Pasted image 20240214095027.png",
     "01 - Projects/Hundred Alts/files/Pasted image 20240207090431.png",
     "Pasted image 20240207090326.png",
     "01 - Projects/Hundred Alts/files/Pasted image 20240207085741.png",
-    "00 - Inbox/100Alts/New Reco Flow.svg",
     "04 - Archives/2024-02-14-Archives/AutoaltViewModelDiagram.svg",
     "04 - Archives/2024-02-14-Archives/Pasted image 20231214082226.png",
     "04 - Archives/2024-02-14-Archives/Pasted image 20231214082135.png",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 3.canvas"
   ]
