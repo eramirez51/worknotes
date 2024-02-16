@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9922928b712b190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48375e5ce8833ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58229b0392052966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93f0d91e0c6bded6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Hundred Alts/🎯 Load Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6f0725061c35d5d",
             "type": "leaf",
             "state": {
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,16 +201,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5893f09da338c00a",
+  "active": "e6f0725061c35d5d",
   "lastOpenFiles": [
-    "02 - Areas/Autoalt/🕎 00 - Book Feed.md",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
+    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
+    "02 - Areas/Autoalt/🕎 00 - Book Feed.md",
     "02 - Areas/Systems/DBT/🕎 00 - System.md",
     "02 - Areas/Systems/DBT/00 - System.md",
     "02 - Areas/Systems/DBT",
     "02 - Areas/Autoalt/🕎 00 - hundred alts.md",
-    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "02 - Areas/Systems/Airflow/🕎 00 - System.md",
     "04 - Archives/2024-02-14-Archives/SprintTasks/Kredo/Kredo_Main.md",
     "04 - Archives/2024-02-14-Archives/Excalidraw/Drawing 2023-11-10 07.20.12.excalidraw.md",
