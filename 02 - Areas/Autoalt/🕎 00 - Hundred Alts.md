@@ -28,6 +28,9 @@ from "01 - Archives" and #Project and #Autoalt and #hundred_alts
 #  🧮 TODOs
 * Data Integrity Test
 * Acceptance Test
+* Load Test full dataset loading where Bigtable has more instance
+* Watch how fast the database grows
+* How can we do the monitoring?
 
 # Performance
 * The DAG currently takes 8 hrs to load, where the x-ranking takes 1.5 hours, joining takes 1.5 hrs, and bigtable loading takes 1hr
