@@ -1,5 +1,5 @@
 ---
-id: 🏁 00 - hundred alts
+id: 🕎 00 - Hundred Alts
 aliases: []
 tags:
   - Area
