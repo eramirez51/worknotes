@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Autoalt/🏁 00 - hundred alts.md"
+                "file": "01 - Projects/Hundred Alts/Deploy to Prod.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "bf986713ac3c2617",
   "lastOpenFiles": [
-    "01 - Projects/Hundred Alts/Deploy to Prod.md",
     "02 - Areas/Autoalt/🏁 00 - hundred alts.md",
+    "01 - Projects/Hundred Alts/Deploy to Prod.md",
     "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
     "01 - Projects/Autoalt:Hundred Alts.md",
     "01 - Projects/Hundred Alts",
