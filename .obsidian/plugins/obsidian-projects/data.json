@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 - Projects/Hundred Alts",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e08e0f66-c1d9-41cb-a06e-66c87e7f615d",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "36412156-03a8-4b03-9d25-291369b96971",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "id": "143febfc-83c3-439e-9142-93bc02d284de",
+      "name": "Hundred Alts"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,6 @@
+<%"---"%>
+created: <% tp.file.creation_date('DD-MM-YYYY' + ' ' + 'HH:mm') %>
+tags: Area
+cover:
+<%"---"%>
+# <% tp.file.title %>

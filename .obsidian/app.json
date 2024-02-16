@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "vimMode": true,
   "readableLineLength": false,
-  "attachmentFolderPath": "./files"
+  "attachmentFolderPath": "./files",
+  "promptDelete": false
 }

@@ -1,0 +1,12 @@
+<%"---"%>
+created: <% tp.file.creation_date('DD-MM-YYYY' + ' ' + 'HH:mm') %>
+tags: <% await tp.system.suggester(["Project", "Project, Autoalt", "Project, Autoalt, hundred_alts" ], ["Project", "Project, Autoalt", "Project, Autoalt, hundred_alts" ]) %>
+Area: <% await tp.system.suggester(["[[00 - Autoalt - hundred_alts]]", "[[00 - Autoalt - hundred_alts]]"]) %>
+status: <% await tp.system.suggester(["Inbox", "Planned", "In Progress", "Done"], ["Inbox", "Planned", "In Progress", "Done"]) %>
+priority: <% await tp.system.suggester(["Low", "Medium", "High"], ["Low", "Medium", "High"]) %>
+scheduled: <% await tp.system.prompt("Enter the scheduled date") %>
+due: <% await tp.system.prompt("Enter the due date") %>
+<%"---"%>
+# <% tp.file.title %>
+> [!tip]- References
+> <% tp.file.cursor() %>
