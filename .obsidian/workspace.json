@@ -196,9 +196,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e6f0725061c35d5d",
