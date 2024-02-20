@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+                "file": "01 - Projects/SearchHistorySuggester/🎯 Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+                "file": "01 - Projects/SearchHistorySuggester/🎯 Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+                "file": "01 - Projects/SearchHistorySuggester/🎯 Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md"
+                "file": "01 - Projects/SearchHistorySuggester/🎯 Design.md"
               }
             }
           },
@@ -201,13 +201,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e6f0725061c35d5d",
+  "active": "5893f09da338c00a",
   "lastOpenFiles": [
-    "01 - Projects/Hundred Alts/🎯 Change Default autoalt to NoKeyDB.md",
-    "02 - Areas/Systems/Reco/Exploratory System Design.md",
-    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+    "02 - Areas/SearchHistorySuggester",
+    "02 - Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
+    "01 - Projects/SearchHistorySuggester/🎯 Change Default autoalt to NoKeyDB.md",
+    "01 - Projects/SearchHistorySuggester/🎯 Design.md",
+    "01 - Projects/SearchHistorySuggester",
+    "01 - Projects/No KeyDB/🎯 Change Default autoalt to NoKeyDB.md",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
+    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+    "02 - Areas/Autoalt/HybridSolution.svg",
+    "01 - Projects/Hundred Alts/🎯 Change Default autoalt to NoKeyDB.md",
+    "02 - Areas/Systems/Reco/Exploratory System Design.md",
     "02 - Areas/Autoalt/🕎 00 - Book Feed.md",
     "02 - Areas/Systems/DBT/🕎 00 - System.md",
     "02 - Areas/Systems/DBT/00 - System.md",
@@ -225,7 +232,6 @@
     "02 - Areas/Systems/Reco",
     "02 - Areas/Systems",
     "02 - Areas/Autoalt/Autoalt.canvas",
-    "02 - Areas/Autoalt/HybridSolution.svg",
     "02 - Areas/Autoalt/Untitled.md",
     "02 - Areas/DBT",
     "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
@@ -234,14 +240,8 @@
     "01 - Projects/Test.md",
     "01 - Projects/hundred_alts/test.md",
     "02 - Areas/00 - hundred_alts",
-    "01 - Projects/hundred_alts/Some note.md",
     "02 - Areas/Autoalt/00 - hundred_alts",
     "02 - Areas/Autoalt/hundred_alts",
-    "02 - Areas/Autoalt",
-    "01 - Projects/Hundred Alts/5 Mistakes I Made When I Started Using Obsidian.md",
-    "01 - Projects/Hundred Alts/The Easiest Way to Start Taking Notes.md",
-    "01 - Projects/Hundred Alts/Why You Should Be Taking More Notes.md",
-    "01 - Projects/Hundred Alts/What I Learned From Taking 15,000 Notes.md",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "02 - Areas/Autoalt/files/Pasted image 20240214095027.png",
     "02 - Areas/Autoalt/files/Pasted image 20240207090431.png",
