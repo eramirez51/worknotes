@@ -1,13 +1,14 @@
 ---
 id: 🎯 Deploy to Prod.md
 aliases: []
-tags: 
- - Project
- - Autoalt
- - hundred_alts
-Area: Autoalt, hundred_alts
-status: In Progress
+tags:
+  - Project
+  - Autoalt
+  - hundred_alts
+Area:
+  - 🕎 00 - Hundred Alts
 created: 16-02-2024 10:51
+status: In Progress
 ---
 
 # JIRA
