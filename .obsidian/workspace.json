@@ -197,11 +197,13 @@
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "e6f0725061c35d5d",
   "lastOpenFiles": [
+    "01 - Projects/Hundred Alts/🎯 Change Default autoalt to NoKeyDB.md",
     "02 - Areas/Systems/Reco/Exploratory System Design.md",
     "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
@@ -240,7 +242,6 @@
     "01 - Projects/Hundred Alts/The Easiest Way to Start Taking Notes.md",
     "01 - Projects/Hundred Alts/Why You Should Be Taking More Notes.md",
     "01 - Projects/Hundred Alts/What I Learned From Taking 15,000 Notes.md",
-    "01 - Projects/Hundred Alts/The Best Notes You'll Ever Make.md",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "02 - Areas/Autoalt/files/Pasted image 20240214095027.png",
     "02 - Areas/Autoalt/files/Pasted image 20240207090431.png",
