@@ -1,17 +1,17 @@
 ---
 id: 🎯 Design
-created: 16-02-2024 13:07
+aliases: []
 tags:
   - Project
   - Autoalt
   - SearchHistorySuggester
 Area: "[[🕎 00 - SearchHistorySuggester]]"
-status: In Progress
+created: 16-02-2024 13:07
 priority: Medium
-scheduled: 
-due:
+status: In Progress
 ---
 
 Goal: 
 
 Design
+

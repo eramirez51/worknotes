@@ -16,6 +16,8 @@ Proposal:
 
  https://u-next.slack.com/archives/C06H1U31HA9/p1708407855792229
 
+# PRs
+* To staging: https://github.com/u-next/starship-app-autoalt/pull/361
 # Load Test
 > [!tip]- References
 > <% tp.file.cursor() %>
