@@ -10,7 +10,7 @@
           {
             "id": "1f4721bf622ec1d8",
             "type": "tabs",
-            "dimension": 76.62538699690403,
+            "dimension": 83.04953560371517,
             "children": [
               {
                 "id": "e6f0725061c35d5d",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01 - Projects/No KeyDB/🎯 Change Default autoalt to NoKeyDB.md",
+                    "file": "00 - Inbox/Untitled.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +29,7 @@
           {
             "id": "917a733250c22ff6",
             "type": "tabs",
-            "dimension": 23.374613003095977,
+            "dimension": 16.95046439628483,
             "children": [
               {
                 "id": "9e40fe64208529ae",
@@ -60,9 +60,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 104,
-                        "data": "obsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[32mgit\u001b[0m status                                       \u001b[42C\u001b[33m (main !?)\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"01 - Projects/No KeyDB/\\360\\237\\216\\257 Change Default autoalt to NoKeyDB.md\"\r\n\u001b[8Cmodified:   \"01 - Projects/SearchHistorySuggester/\\360\\237\\216\\257 Design.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m02 - Areas/SearchHistorySuggester/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !3 \u001b[38;5;39m?1\u001b[0m                                    \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[4m.\u001b[0m; \u001b[32mgit\u001b[0m commit -m \u001b[33m\"addl\"\u001b[0m; \u001b[32mgit\u001b[0m push origin main\u001b[90m -d\u001b[3D\u001b[0m",
-                        "rows": 11
+                        "columns": 196,
+                        "data": "obsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[32mgit\u001b[0m status                                       \u001b[2C\u001b[33m (main !?)\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"01 - Projects/No KeyDB/\\360\\237\\216\\257 Change Default autoalt to NoKeyDB.md\"\r\n\u001b[8Cmodified:   \"01 - Projects/SearchHistorySuggester/\\360\\237\\216\\257 Design.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m02 - Areas/SearchHistorySuggester/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[4m.\u001b[0m; \u001b[32mgit\u001b[0m commit -m \u001b[33m\"addl\"\u001b[0m; \u001b[32mgit\u001b[0m push origin main\r\n[main 5a8d6bd] addl\r\n 4 files changed, 85 insertions(+), 27 deletions(-)\r\n create mode 100644 \"02 - Areas/SearchHistorySuggester/\\360\\237\\225\\216 00 - SearchHistorySuggester.md\"\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (11/11), done.\r\nWriting objects: 100% (12/12), 2.62 KiB | 2.63 MiB/s, done.\r\nTotal 12 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   1c637f9..5a8d6bd  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                           \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Thu Feb 22 2024 11:16:07 GMT+0900 (Japan Standard Time)\r\n\r\nobsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[51C\u001b[33m (main !)\r\n\u001b[0m * Restored history at Thu Feb 22 2024 14:18:40 GMT+0900 (Japan Standard Time)\r\n\r\nobsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[184C\u001b[33m (main !)\r\n\r\n\u001b[2A\u001b[2C\u001b[0m",
+                        "rows": 6
                       }
                     }
                   },
@@ -155,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Inbox/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Inbox/Untitled.md"
+              }
             }
           },
           {
@@ -250,18 +254,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9e40fe64208529ae",
+  "active": "e6f0725061c35d5d",
   "lastOpenFiles": [
-    "01 - Projects/No KeyDB/🎯 Change Default autoalt to NoKeyDB.md",
+    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
+    "00 - Inbox/Untitled.md",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
     "01 - Projects/SearchHistorySuggester/🎯 Design.md",
+    "01 - Projects/No KeyDB/🎯 Change Default autoalt to NoKeyDB.md",
     "02 - Areas/SearchHistorySuggester/🕎 00 - SearchHistorySuggester.md",
     "02 - Areas/SearchHistorySuggester",
     "02 - Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
     "01 - Projects/SearchHistorySuggester/🎯 Change Default autoalt to NoKeyDB.md",
     "01 - Projects/SearchHistorySuggester",
-    "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "02 - Areas/Autoalt/HybridSolution.svg",
     "01 - Projects/Hundred Alts/🎯 Change Default autoalt to NoKeyDB.md",
     "02 - Areas/Systems/Reco/Exploratory System Design.md",
@@ -288,7 +293,6 @@
     "01 - Projects/Autoalt:Hundred Alts.md",
     "01 - Projects/Hundred Alts",
     "01 - Projects/Test.md",
-    "01 - Projects/hundred_alts/test.md",
     "02 - Areas/00 - hundred_alts",
     "02 - Areas/Autoalt/00 - hundred_alts",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
