@@ -10,6 +10,8 @@ tags: []
 * Upgraded KeyDB helm chart to using the official helm chart, but we no longer need it, so I just did not use it, but kept usable in case it is needed
 * Removed KeyDB nodes because it has been deprecated
 * Upgraded Concourse helm chart to 12.3.0
+* Because the previous script to provision RAID, I had to change the Raid provisioning to using the `local-static-provisioner` helm chart https://github.com/u-next/datascience-infra-starship/pull/124/files#diff-4de952aa3eb58e07d412f454513a3d894922c702d834814f9d8c3d21b1a453bc 
+* Added support for OTEL - https://github.com/u-next/datascience-infra-starship/pull/124
 * Concourse Builder no longer works in Kubernetes 1.26, Docker inside container no longer works, so I had to change the builder and upgrade its version to 2.0.5. I had to change all pipelines to start using it.
 * Airflow did not require special change for 1.26
 
