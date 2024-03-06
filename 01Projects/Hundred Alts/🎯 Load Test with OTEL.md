@@ -11,4 +11,8 @@ priority: Medium
 status: In Progress
 ---
 
-# Load Test
+Plan
+* Add support for OTEL in KoaJs API, make sure it is configurable
+* [[🎯Add_OTEL_support_to_API]]
+* Support switching-it-off via ENV variable
+* 
