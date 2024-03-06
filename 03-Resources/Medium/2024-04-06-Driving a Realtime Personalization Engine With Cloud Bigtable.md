@@ -4,6 +4,8 @@ aliases: []
 tags: []
 ---
 
+https://www.youtube.com/watch?v=rECHcoGIJNU
+
 Presenter: Segment Company CEO
 
 # Points
@@ -13,3 +15,21 @@ Need to pick bw cloud providers, could be locked in. Lasting ramifications, abil
 Journey led to using Bigquery and Bigtable
 
 What is Segment: Gives a single API of what user is doing in your APP
+
+Before, they are processing data with AWS components. Stateless. Kafka, message bus, saves to backnd DB that is also stateless. But, since they started `Persona`, it became difficult as it is very stateful, they can no longer add more nodes in the backend.
+
+Explained about LambDa Architecture
+
+Their solution, like a Lambda Architecture
+
+===
+```bash
+Kafka -> Pubsub  ->  Bigquery
+                 \ 
+                     Bigtable
+```
+===
+
+
+
+
