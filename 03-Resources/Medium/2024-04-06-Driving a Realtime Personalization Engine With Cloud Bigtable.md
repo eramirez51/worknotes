@@ -30,6 +30,7 @@ Kafka -> Pubsub  ->  Bigquery
 ```
 ===
 
-
+# Notes
+I already what this guys is taking about. Ends watching early.
 
 
