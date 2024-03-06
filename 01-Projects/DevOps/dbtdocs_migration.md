@@ -15,9 +15,12 @@ Will change DBT Docs to start using GCS instead of S3. To do this I need to:
 # Things I did
 ## 01-Modify `localenv`
 * Start using `localenv`, pointing to `airflow-dataops`
+
 ## 02-Modify `airflow-dataops`. 
 - [x] Additional ENV parameter https://github.com/u-next/ds-airflow-2-dataops/pull/68
-## Modify `infra-dataops/src/dbtdocs` to start sending to GCS is ENV variable is set
-- [x] PR - https://github.com/u-next/datascience-dataops-dbt/pull/557
+
+## 03-Modify `infra-dataops/src/dbtdocs` to start sending to GCS is ENV variable is set
+- [x] - First change PR - https://github.com/u-next/datascience-dataops-dbt/pull/557
+- [x] - I needed to also activate service account https://github.com/u-next/ds-airflow-2-dataops/pull/69
 
 
