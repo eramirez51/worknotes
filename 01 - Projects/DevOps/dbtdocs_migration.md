@@ -1,0 +1,11 @@
+---
+id: dbtdocs_migration
+aliases: []
+tags: []
+---
+
+Plan
+* Will change DBT Docs to start using GCS instead of S3. To do this I need to:
+ * Change in `airflow-dataops` to change ENV parameter to start sending to GCS
+ * Change in `infra-dataops` to start pulling from GCS
+ * Change in `datascience-dataops-dbt`'s `utils.sh` to start sending to GCS https://github.com/u-next/datascience-dataops-dbt/blob/main/utils.sh
