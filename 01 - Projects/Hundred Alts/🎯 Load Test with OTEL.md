@@ -12,5 +12,3 @@ status: In Progress
 ---
 
 # Load Test
-> [!tip]- References
-> <% tp.file.cursor() %>
