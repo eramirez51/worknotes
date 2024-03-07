@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md"
               }
             }
           },
@@ -234,14 +234,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false
     }
   },
   "active": "902ca3c18dc570c6",
   "lastOpenFiles": [
+    "01-Projects/Hundred Alts/Untitled Diagram.svg",
+    "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md",
+    "01-Projects/Hundred Alts/files/LoadTestingWithOtel.png",
+    "01-Projects/Hundred Alts/files",
     "Untitled Diagram.svg",
     "Untitled.md",
     "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
@@ -277,17 +281,13 @@
     "02 - Areas/Autoalt/Autoalt.canvas",
     "02 - Areas/Autoalt/Untitled.md",
     "02 - Areas/DBT",
-    "01 - Projects/Hundred Alts/Autoalt:Hundred Alts.md",
     "01 - Projects/Hundred Alts",
     "02 - Areas/00 - hundred_alts",
-    "02 - Areas/Autoalt/00 - hundred_alts",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "02 - Areas/Autoalt/files/Pasted image 20240214095027.png",
     "02 - Areas/Autoalt/files/Pasted image 20240207090431.png",
     "Pasted image 20240207090326.png",
     "02 - Areas/Autoalt/files/Pasted image 20240207085741.png",
-    "04 - Archives/2024-02-14-Archives/AutoaltViewModelDiagram.svg",
-    "04 - Archives/2024-02-14-Archives/Pasted image 20231214082226.png",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
