@@ -22,3 +22,8 @@ How to do
 
 # POC
 * https://github.com/u-next/datascience-infra-starship/pull/121/files
+
+# References
+* https://newrelic.com/jp/blog/how-to-relic/instrumenting-aws-lambda-functions-with-opentelemetry-sdks
+* Examples https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/examples
+* https://github.com/open-telemetry/opentelemetry-js
