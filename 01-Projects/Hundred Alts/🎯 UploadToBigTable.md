@@ -28,6 +28,7 @@ The advantage of an Avro file vs a streaming to Bigtable is it is cheaper, then 
 # Plan
 ## Plan A
 * Try to generate Avro and use ToBq to send it. I need to find my Dataflow code that generates Avro
+ * Found it? https://github.com/u-next/ds-autoaltmakers/blob/feature/dataflower/src/dataflow/dataflow/beam/csv2avro.py
 * Test how much additional time is incurred by this
 
 ## Plan B
