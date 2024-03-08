@@ -1,7 +1,6 @@
 [
   "tag-wrangler",
   "google-calendar",
-  "drawio-obsidian",
   "calendar",
   "obsidian-dynamic-toc",
   "obsidian-tasks-plugin",
@@ -11,5 +10,7 @@
   "terminal",
   "templater-obsidian",
   "obsidian-projects",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "obsidian42-brat",
+  "drawio-obsidian-temp-fix"
 ]

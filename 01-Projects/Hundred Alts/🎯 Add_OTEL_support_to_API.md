@@ -39,7 +39,6 @@ https://u-next.slack.com/archives/C066RRDHPNH/p1709855362349529?thread_ts=170121
 https://console.cloud.google.com/security/secret-manager/secret/kredo_gcpotel_pubsub_ro/permissions?project=unext-recommender-system
 ![[y-su_pubsub_credential.png]]
 
-
 * To access it, this is the [link](https://apm-kibana.core.unext.dev/app/apm/services/bigtable-base/overview?comparisonEnabled=true&environment=ENVIRONMENT_ALL&kuery=&latencyAggregationType=avg&offset=1w&rangeFrom=now-3d&rangeTo=now&serviceGroup=&transactionType=request)
 * Uname/pwd https://u-next.slack.com/archives/C066RRDHPNH/p1709879299729369?thread_ts=1701217232.613609&cid=C066RRDHPNH  
 ![[APM Access.png]]
