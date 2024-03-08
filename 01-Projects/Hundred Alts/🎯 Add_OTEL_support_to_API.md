@@ -32,6 +32,17 @@ How to do
 * Started talking to Yan for APM integration
 https://u-next.slack.com/archives/C066RRDHPNH/p1709855362349529?thread_ts=1701217232.613609&cid=C066RRDHPNH
 
+
+## 2024-03-08
+* Created a special Kredo credential so that y-su@unext.jp(yan-san) may have access to it. https://github.com/u-next/datascience-app-kredo/pull/18
+* Then gave him a personal access to the secret
+https://console.cloud.google.com/security/secret-manager/secret/kredo_gcpotel_pubsub_ro/permissions?project=unext-recommender-system
+![[y-su_pubsub_credential.png]]
+
+
+* To access it, this is the [link](https://apm-kibana.core.unext.dev/app/apm/services/bigtable-base/overview?comparisonEnabled=true&environment=ENVIRONMENT_ALL&kuery=&latencyAggregationType=avg&offset=1w&rangeFrom=now-3d&rangeTo=now&serviceGroup=&transactionType=request)
+* Uname/pwd https://u-next.slack.com/archives/C066RRDHPNH/p1709879299729369?thread_ts=1701217232.613609&cid=C066RRDHPNH  
+![[APM Access.png]]
 # References
 * https://newrelic.com/jp/blog/how-to-relic/instrumenting-aws-lambda-functions-with-opentelemetry-sdks
 * Examples https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/examples
