@@ -1,14 +1,7 @@
 ---
 id: 🎯 Create_APM_kredo_credential
 aliases: []
-tags:
-  - Project,
-  - Autoalt,
-  - hundred_alts
-Area: Autoalt, hundred_alts
-created: 16-02-2024 13:07
-priority: Medium
-status: In Progress
+tags: []
 ---
 
 # Background
@@ -28,7 +21,7 @@ status: In Progress
 # What happened
 ## To Add Pubsub client to our consumer
 * https://github.com/u-next/datascience-app-kredo/pull/18
-## Asked how to use `AD FS` in main channel
+## Asked how to use `AD FS in main channel
 * Sent a message to `#unext-dev` channel https://u-next.slack.com/archives/C320446MD/p1709875383796779
 
 
