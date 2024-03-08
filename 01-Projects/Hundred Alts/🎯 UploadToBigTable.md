@@ -31,7 +31,8 @@ The advantage of an Avro file vs a streaming to Bigtable is it is cheaper, then 
 ## Plan A
 * Try to generate Avro and use ToBq to send it. I need to find my Dataflow code that generates Avro
  * Found it? https://github.com/u-next/ds-autoaltmakers/blob/feature/dataflower/src/dataflow/dataflow/beam/csv2avro.py
-* Test how much additional time is incurred by this
+* I need to read from yaml config, and automatically send the data to BQ using this information, by automatically creating the BQ Job Config
+* TODO: Test how much additional time is incurred by this
 
 ## Plan B
 * Focus on trying to upload the data to BigQuery first, worry about how to do it correctly later
