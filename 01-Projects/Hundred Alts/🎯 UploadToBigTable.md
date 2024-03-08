@@ -6,7 +6,6 @@ tags:
   - Autoalt,
   - hundred_alts
 Area: Autoalt, hundred_alts
-created: 16-02-2024 13:07
 priority: Medium
 status: In Progress
 ---
@@ -18,6 +17,9 @@ This job can be put together with the Dataflow Job during the join. Doing it aga
 But there will be a case where we want to disable it, and should only happen if we are ready to and we are confident that the data is the one actually served in production
 
 How can this be done?
+
+What is my goal? Goal is the validate the data, not to think about the edge cases yet
+Can I just add an additional `env` field? So that we can easily filter out "test" upload during the query?
 
 # Plan
 
