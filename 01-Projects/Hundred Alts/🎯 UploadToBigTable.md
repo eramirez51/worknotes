@@ -26,6 +26,8 @@ Another approach is to simultaneously generate an Avro file, so that, if we are 
 The advantage of an Avro file vs a streaming to Bigtable is it is cheaper, then we can easily use `tobq` for this .. This sounds like a better solution..
 
 # Plan
+## Prerequisite
+* I might need addtl DF credential to write data to BQ, but if I use `tobq`, maybe I dont need that?
 ## Plan A
 * Try to generate Avro and use ToBq to send it. I need to find my Dataflow code that generates Avro
  * Found it? https://github.com/u-next/ds-autoaltmakers/blob/feature/dataflower/src/dataflow/dataflow/beam/csv2avro.py
