@@ -43,6 +43,15 @@ The advantage of an Avro file vs a streaming to Bigtable is it is cheaper, then 
 * 
 
 # What happened
+## [[2023-12-08]]
+* Generated the avro file
+* I need the following credentials https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-avro#permissions-load-data-into-bigquery
+* Modified the dataflow DAG to also generate the avro files
 
+![[dataflow_with_avro_generate.png]]
 
- 
+Combining generating CSV and and AVRO together, the job takes 1h30mins
+
+![[csv_plus_avro_allusers_job_1h30mins.png]]
+
+Next, I will try removing the CSV generation

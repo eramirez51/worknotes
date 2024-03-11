@@ -8,57 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e40fe64208529ae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/eugene/apps/projects/eugene/worknotes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/zsh",
-                    "name": "",
-                    "platforms": {
-                      "darwin": true,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 130,
-                    "data": "obsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[32mgit\u001b[0m status                                       \u001b[33m (main !?)\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"01 - Projects/No KeyDB/\\360\\237\\216\\257 Change Default autoalt to NoKeyDB.md\"\r\n\u001b[8Cmodified:   \"01 - Projects/SearchHistorySuggester/\\360\\237\\216\\257 Design.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m02 - Areas/SearchHistorySuggester/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[4m.\u001b[0m; \u001b[32mgit\u001b[0m commit -m \u001b[33m\"addl\"\u001b[0m; \u001b[32mgit\u001b[0m push origin main\r\n[main 5a8d6bd] addl\r\n 4 files changed, 85 insertions(+), 27 deletions(-)\r\n create mode 100644 \"02 - Areas/SearchHistorySuggester/\\360\\237\\225\\216 00 - SearchHistorySuggester.md\"\r\nEnumerating objects: 21, done.\r\nCounting objects: 100% (21/21), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (11/11), done.\r\nWriting objects: 100% (12/12), 2.62 KiB | 2.63 MiB/s, done.\r\nTotal 12 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   1c637f9..5a8d6bd  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                           \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Thu Feb 22 2024 11:16:07 GMT+0900 (Japan Standard Time)\r\n\r\nobsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[49C\u001b[33m (main !)\r\n\u001b[0m * Restored history at Thu Feb 22 2024 14:18:40 GMT+0900 (Japan Standard Time)\r\n\r\nobsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[49C\u001b[33m (main !)\r\n\u001b[0m * Restored history at Tue Feb 27 2024 13:03:24 GMT+0900 (Japan Standard Time)\r\n\r\nobsidian: invalid option -- 'b'\r\nTry 'obsidian --help' for more information.\r\n\u001b[32;1meugene\u001b[0m \u001b[34;1m~/.../eugene/worknotes\u001b[0m \u001b[32m[base]\r\n\u001b[0m% \u001b[92C\u001b[33m (main ?)\r\n\u001b[0m * Restored history at Fri Mar 08 2024 16:01:47 GMT+0900 (Japan Standard Time)\r\n\r\nTraceback (most recent call last):\r\n  File \"<string>\", line 84, in <module>\r\n  File \"<string>\", line 24, in main\r\n  File \"<frozen os>\", line 574, in execvp\r\n  File \"<frozen os>\", line 597, in _execvpe\r\nFileNotFoundError: [Errno 2] No such file or directory\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[76A",
-                    "rows": 83
-                  }
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "b805e77aedcad017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md"
+                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md"
               }
             }
           },
@@ -205,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "aa52a292b0697987",
@@ -243,15 +203,26 @@
   },
   "active": "b805e77aedcad017",
   "lastOpenFiles": [
+    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
+    "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
+    "02-Areas/Autoalt/🕎 00 - Book Feed.md",
+    "02-Areas/DailyNotes/2024-03-11.md",
+    "02-Areas/DailyNotes/2024-03-07.md",
     "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
-    "01-Projects/OpenTelemetry/files/y-su_pubsub_credential.png",
+    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
     "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+    "02-Areas/DailyNotes/2024-03-12.md",
+    "02-Areas/DailyNotes/2024-03-06.md",
+    "02-Areas/DailyNotes/files",
+    "04-Archives/2024-02-14-Archives/2023-12-08.md",
+    "01-Projects/Hundred Alts/files/csv_plus_avro_allusers_job_1h30mins.png",
+    "01-Projects/Hundred Alts/files/dataflow_with_avro_generate.png",
+    "01-Projects/OpenTelemetry/files/y-su_pubsub_credential.png",
     "01-Projects/Hundred Alts/files/LoadTestingWithOtel.png",
     "02-Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
     "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
-    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
     "01-Projects/OpenTelemetry/files/APM Access.png",
-    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
     "01-Projects/OpenTelemetry/files",
     "01-Projects/Hundred Alts/Untitled Diagram.svg",
     "01-Projects/Hundred Alts/Untitled Diagram 1.svg",
@@ -266,8 +237,6 @@
     "02-Areas/Systems/Airflow/🕎 00 - System.md",
     "02-Areas/Systems/DBT/🕎 00 - System.md",
     "03-Resources/Medium/2024-03-08-Integrating Vector Databases with LLMs: A Hands-On Guide.md",
-    "02-Areas/DailyNotes/2024-03-06.md",
-    "02-Areas/DailyNotes/2024-03-07.md",
     "02-Areas/DailyNotes",
     "01-Projects/Hundred Alts/files",
     "Untitled Diagram.svg",
@@ -276,18 +245,11 @@
     "00 - Inbox/Untitled.md",
     "01 - Projects/Hundred Alts/🎯 Load Test.md",
     "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
-    "01 - Projects/SearchHistorySuggester/🎯 Design.md",
-    "01 - Projects/No KeyDB/🎯 Change Default autoalt to NoKeyDB.md",
-    "02 - Areas/SearchHistorySuggester/🕎 00 - SearchHistorySuggester.md",
     "02 - Areas/SearchHistorySuggester",
-    "02 - Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
     "01 - Projects/SearchHistorySuggester",
     "02 - Areas/Autoalt/HybridSolution.svg",
-    "02 - Areas/Systems/DBT",
     "00 - Inbox/100Alts/New Reco Flow.svg",
     "02 - Areas/Autoalt/Autoalt.canvas",
-    "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
-    "02 - Areas/Autoalt/files/Pasted image 20240214095027.png",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

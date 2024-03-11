@@ -24,7 +24,7 @@ How to do
 
 # What happened
 
-## 2024-03-07
+## [[2024-03-07]]
 * There was a problem with Cluster's Workload Identity, where the OTEL publisher wont send to PubSub, I was getting 403 Forbidden
  * After creating Workload Identity Pool, it started working, but im not sure if it is actually the solution https://github.com/u-next/datascience-infra-starship/compare/master...feature/workload_identity_pool
 * Did a load testing with OTEL enabled. The performance looks good (`tp95 at 25ms`), basically no change from previous performance
