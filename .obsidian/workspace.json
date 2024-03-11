@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 UploadToBigTable.md"
+                "file": "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md"
               }
             }
           },
@@ -243,31 +243,32 @@
   },
   "active": "b805e77aedcad017",
   "lastOpenFiles": [
-    "01-Projects/Hundred Alts/Untitled Diagram.svg",
+    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
+    "01-Projects/OpenTelemetry/files/y-su_pubsub_credential.png",
     "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "01-Projects/Hundred Alts/files/LoadTestingWithOtel.png",
+    "02-Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
+    "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
+    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
+    "01-Projects/OpenTelemetry/files/APM Access.png",
+    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+    "01-Projects/OpenTelemetry/files",
+    "01-Projects/Hundred Alts/Untitled Diagram.svg",
     "01-Projects/Hundred Alts/Untitled Diagram 1.svg",
-    "01-Projects/Hundred Alts/🎯 Add_OTEL_support_to_API.md",
     "';w",
-    "01-Projects/Hundred Alts/files/APM Access.png",
-    "01-Projects/Hundred Alts/files/y-su_pubsub_credential.png",
     "00-Inbox/reading_list.md",
     "02-Areas/Systems/DBT/🕎 00 - DBT.md",
     "02-Areas/Systems/Kredo/🕎 00 - Kredo.md",
     "02-Areas/Systems/Kredo/🕎 00 - System.md",
     "02-Areas/Systems/Kredo",
-    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
-    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
     "01-Projects/OpenTelemetry",
     "01-Projects/OpenTelemetryy",
     "02-Areas/Systems/Airflow/🕎 00 - System.md",
-    "02-Areas/Systems/Airflow/Autoalt Dag Refactoring for 100 Alts.md",
     "02-Areas/Systems/DBT/🕎 00 - System.md",
-    "01-Projects/Hundred Alts/files/LoadTestingWithOtel.png",
     "03-Resources/Medium/2024-03-08-Integrating Vector Databases with LLMs: A Hands-On Guide.md",
     "02-Areas/DailyNotes/2024-03-06.md",
     "02-Areas/DailyNotes/2024-03-07.md",
     "02-Areas/DailyNotes",
-    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
     "01-Projects/Hundred Alts/files",
     "Untitled Diagram.svg",
     "Untitled.md",
@@ -280,12 +281,10 @@
     "02 - Areas/SearchHistorySuggester/🕎 00 - SearchHistorySuggester.md",
     "02 - Areas/SearchHistorySuggester",
     "02 - Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
-    "01 - Projects/SearchHistorySuggester/🎯 Change Default autoalt to NoKeyDB.md",
     "01 - Projects/SearchHistorySuggester",
     "02 - Areas/Autoalt/HybridSolution.svg",
     "02 - Areas/Systems/DBT",
     "00 - Inbox/100Alts/New Reco Flow.svg",
-    "02 - Areas/Systems/Airflow",
     "02 - Areas/Autoalt/Autoalt.canvas",
     "04 - Archives/2024-02-14-Archives/Untitled Diagram.svg",
     "02 - Areas/Autoalt/files/Pasted image 20240214095027.png",
