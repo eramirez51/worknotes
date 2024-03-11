@@ -11,11 +11,14 @@
             "id": "b805e77aedcad017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
-                "mode": "source",
-                "source": false
+                "file": "02-Areas/Autoalt/files/Autoalt.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+                "file": "02-Areas/Autoalt/files/Autoalt.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+                "file": "02-Areas/Autoalt/files/Autoalt.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md"
+                "file": "02-Areas/Autoalt/files/Autoalt.canvas"
               }
             }
           },
@@ -201,17 +204,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b805e77aedcad017",
+  "active": "5893f09da338c00a",
   "lastOpenFiles": [
-    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
+    "02-Areas/Autoalt/files/HybridSolution.svg",
+    "02-Areas/Autoalt/files/Autoalt.canvas",
+    "02-Areas/Autoalt/🕎 00 - NoKeyDB.md",
+    "02-Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
+    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
+    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
     "02-Areas/Autoalt/🕎 00 - Book Feed.md",
     "02-Areas/DailyNotes/2024-03-11.md",
     "02-Areas/DailyNotes/2024-03-07.md",
-    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
-    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
     "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
-    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
     "02-Areas/DailyNotes/2024-03-12.md",
     "02-Areas/DailyNotes/2024-03-06.md",
     "02-Areas/DailyNotes/files",
@@ -242,9 +249,6 @@
     "Untitled Diagram.svg",
     "Untitled.md",
     "02 - Areas/Autoalt/🕎 00 - Hundred Alts.md",
-    "00 - Inbox/Untitled.md",
-    "01 - Projects/Hundred Alts/🎯 Load Test.md",
-    "01 - Projects/Hundred Alts/🎯 Deploy to Prod.md",
     "02 - Areas/SearchHistorySuggester",
     "01 - Projects/SearchHistorySuggester",
     "02 - Areas/Autoalt/HybridSolution.svg",
