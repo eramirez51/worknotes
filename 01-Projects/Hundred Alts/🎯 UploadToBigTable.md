@@ -1,11 +1,12 @@
 ---
 id: 🎯 UploadToBigTable
-aliases: []
+aliases: 
 tags:
-  - Project,
-  - Autoalt,
+  - Project
+  - Autoalt
   - hundred_alts
-Area: Autoalt, hundred_alts
+Area:
+  - 🕎 00 - Hundred Alts
 priority: Medium
 status: In Progress
 ---
@@ -54,4 +55,7 @@ Combining generating CSV and and AVRO together, the job takes 1h30mins
 
 ![[csv_plus_avro_allusers_job_1h30mins.png]]
 
-Next, I will try removing the CSV generation
+After removing the CSV generation the time it took is about the same (1h30m). In comparison, previously it only took 1h30m to generate the joined reco files (without Avro).
+
+* Modified the [[🕎 00 - BigTableTools]] to instead just use Avro instead of CSV https://github.com/u-next/datascience-infra-starship/pull/127. Im now testing its performance
+* 

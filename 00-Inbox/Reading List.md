@@ -1,11 +1,9 @@
 ---
-id: reading_list
-aliases: []
-tags: []
+id: Reading List
+aliases: 
+tags:
 ---
-
-
-Reading List
+* https://www.qwak.com/post/fine-tune-llms-on-your-data
 * https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
 * https://blog.curiosity.ai/introduction-to-rag-genai-systems-for-knowledge-918a34054228
 * Music Recommendations at Scale With Cloud Bigtable - https://www.youtube.com/watch?v=807uHC0Ia10&list=PLIivdWyY5sqLfu5V_ULLSrZbhlnWb9-Ut
