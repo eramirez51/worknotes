@@ -21,3 +21,10 @@ java -jar /home/eugene/apps/bin/avrocli/avro-tools-1.11.3.jar tojson /home/eugen
 ```bash
 git push origin `git rev-parse --abbrev-ref HEAD`
 ```
+
+# Change ownership of a folder
+
+```bash
+sudo chown -R eugene:eugene . 
+```
+
