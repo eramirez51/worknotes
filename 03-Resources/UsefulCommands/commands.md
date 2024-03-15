@@ -16,3 +16,8 @@ java -jar /home/eugene/apps/bin/avrocli/avro-tools-1.11.3.jar tojson /home/eugen
 ```
 
 
+# Git push current branch
+
+```bash
+git push origin `git rev-parse --abbrev-ref HEAD`
+```
