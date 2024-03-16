@@ -28,3 +28,19 @@ git push origin `git rev-parse --abbrev-ref HEAD`
 sudo chown -R eugene:eugene . 
 ```
 
+# Create ssh pem
+
+## From the remote Meerkat machine
+```
+ssh-keygen -b 1024 -t dsa -v -f ~/.ssh/meerkat
+cd ~/.ssh
+cat meerkat.pub >> authorised_keys
+mv meerkat meerkat.pem
+scp eugene@meerkatpc:~/.ssh/meerkat.pem .
+```
+
+## From the local machine
+
+```bash
+scp user@my-centos-machine:~/.ssh/meerkat.pem /keys/
+```

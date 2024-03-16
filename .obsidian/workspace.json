@@ -74,7 +74,7 @@
                       },
                       "serial": {
                         "columns": 194,
-                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mls\r\n\u001b[34;1m00-Inbox\u001b[0m  \u001b[34;1m01-Projects\u001b[0m  \u001b[34;1m02-Areas\u001b[0m  \u001b[34;1m03-Resources\u001b[0m  \u001b[34;1m04-Archives\u001b[0m  \u001b[34;1mTemplates\r\n\u001b[0m \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                                     \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
+                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mls\r\n\u001b[34;1m00-Inbox\u001b[0m  \u001b[34;1m01-Projects\u001b[0m  \u001b[34;1m02-Areas\u001b[0m  \u001b[34;1m03-Resources\u001b[0m  \u001b[34;1m04-Archives\u001b[0m  \u001b[34;1mTemplates\r\n\u001b[38;5;76;22m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 7, done.\r\nCounting objects: 100% (7/7), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (4/4), 1.22 KiB | 1.22 MiB/s, done.\r\nTotal 4 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   93380bb..044a41b  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                                                                                                 \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
                         "rows": 17
                       }
                     }
@@ -168,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03-Resources/UsefulCommands/commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03-Resources/UsefulCommands/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03-Resources/UsefulCommands/commands.md"
+              }
             }
           },
           {
@@ -265,7 +269,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "780b621b7c99b9c7",
+  "active": "23d8ac237b8a237d",
   "lastOpenFiles": [
     "03-Resources/UsefulCommands/commands.md",
     "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
