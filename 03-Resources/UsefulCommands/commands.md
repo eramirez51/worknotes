@@ -42,5 +42,6 @@ scp eugene@meerkatpc:~/.ssh/meerkat.pem .
 ## From the local machine
 
 ```bash
-scp user@my-centos-machine:~/.ssh/meerkat.pem /keys/
+scp eugene@meerkatpc:~/.ssh/meerkat.pem ~/apps/keys/meerkat.pem
+chmod 400 ~/apps/keys/meerkat.pem
 ```
