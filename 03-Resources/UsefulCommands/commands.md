@@ -42,6 +42,12 @@ scp eugene@meerkatpc:~/.ssh/meerkat.pem .
 ## From the local machine
 
 ```bash
-scp eugene@meerkatpc:~/.ssh/meerkat.pem ~/apps/keys/meerkat.pem
+#scp eugene@meerkatpc:~/.ssh/meerkat.pem ~/apps/keys/meerkat.pem
 chmod 400 ~/apps/keys/meerkat.pem
+```
+
+## Ssh to the machine
+```bash
+
+ssh -i /keys/meerkat.pem eugene@meerkatpc
 ```
