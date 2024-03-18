@@ -1,11 +1,12 @@
 ---
 id: 🎯 UploadToBigTable
-aliases: []
+aliases: 
 tags:
-  - Project,
-  - Autoalt,
   - hundred_alts
-Area: Autoalt, hundred_alts
+  - Project
+  - Autoalt
+Area:
+  - Autoalt, hundred_alts
 priority: Medium
 status: In Progress
 ---

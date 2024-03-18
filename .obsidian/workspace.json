@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "968db2f585285ea7",
+        "id": "3ee0112c183d0f2b",
         "type": "split",
         "children": [
           {
             "id": "917a733250c22ff6",
             "type": "tabs",
-            "dimension": 71.98630136986301,
+            "dimension": 72.00674536256324,
             "children": [
               {
                 "id": "b805e77aedcad017",
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "03-Resources/UsefulCommands/commands.md",
+                    "file": "02-Areas/Systems/🕎 00 - Streamset.md",
                     "mode": "source",
                     "source": false
                   }
@@ -40,12 +40,12 @@
             "currentTab": 1
           },
           {
-            "id": "f3e6fde117b94ccf",
+            "id": "cd45ffb8f0edd247",
             "type": "tabs",
-            "dimension": 28.013698630136986,
+            "dimension": 27.99325463743676,
             "children": [
               {
-                "id": "780b621b7c99b9c7",
+                "id": "b77b0976721f4e5e",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -74,7 +74,7 @@
                       },
                       "serial": {
                         "columns": 194,
-                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mls\r\n\u001b[34;1m00-Inbox\u001b[0m  \u001b[34;1m01-Projects\u001b[0m  \u001b[34;1m02-Areas\u001b[0m  \u001b[34;1m03-Resources\u001b[0m  \u001b[34;1m04-Archives\u001b[0m  \u001b[34;1mTemplates\r\n\u001b[38;5;76;22m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 7, done.\r\nCounting objects: 100% (7/7), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (4/4), 1.22 KiB | 1.22 MiB/s, done.\r\nTotal 4 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   93380bb..044a41b  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                               \r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                                                                                                 \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
+                        "data": " \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !4 \u001b[38;5;39m?6\u001b[0m                                                                                                                              \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
                         "rows": 13
                       }
                     }
@@ -168,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03-Resources/UsefulCommands/commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -269,14 +265,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "23d8ac237b8a237d",
+  "active": "b77b0976721f4e5e",
   "lastOpenFiles": [
-    "03-Resources/UsefulCommands/commands.md",
-    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
-    "01-Projects/Hundred Alts/Untitled Diagram.svg",
-    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
-    "02-Areas/DailyNotes/2024-03-13.md",
+    "02-Areas/Systems/🕎 00 - Streamset.md",
+    "01-Projects/Hundred Alts/🎯 Optimize Bigtable Schema.md",
+    "01-Projects/Hundred Alts/files/load_test_all_users_reverse_optimize.png",
+    "01-Projects/Hundred Alts/files/fresh_write_reverse_optimize.png",
+    "02-Areas/DailyNotes/2024-03-18.md",
     "02-Areas/DailyNotes/2024-03-14.md",
+    "01-Projects/Hundred Alts/files/load_test_with_page_public_code_as_column_qualifer.png",
+    "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
+    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
+    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+    "03-Resources/UsefulCommands/commands.md",
+    "01-Projects/Hundred Alts/Untitled Diagram.svg",
+    "02-Areas/DailyNotes/2024-03-13.md",
     "02-Areas/Systems/🕎 00 - BigTableTools.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "02-Areas/Systems/Untitled.md",
@@ -291,16 +295,11 @@
     "02-Areas/Systems/🕎 00 - Airflow.md",
     "02-Areas/Systems/files/Autoalt Dag Refactoring for 100 Alts.md",
     "02-Areas/DailyNotes/2024-03-11.md",
-    "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
     "02-Areas/Autoalt/🕎 00 - Book Feed.md",
     "03-Resources/Medium/2024-03-08-Integrating Vector Databases with LLMs: A Hands-On Guide.md",
     "00-Inbox/Reading List.md",
     "02-Areas/Autoalt/files/Autoalt.canvas",
     "02-Areas/Autoalt/files/HybridSolution.svg",
-    "02-Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
-    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
-    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
-    "02-Areas/DailyNotes/2024-03-07.md",
     "02-Areas/DailyNotes/files",
     "01-Projects/Hundred Alts/files/csv_plus_avro_allusers_job_1h30mins.png",
     "01-Projects/Hundred Alts/files/dataflow_with_avro_generate.png",
@@ -308,16 +307,13 @@
     "01-Projects/Hundred Alts/files/LoadTestingWithOtel.png",
     "01-Projects/OpenTelemetry/files/APM Access.png",
     "01-Projects/OpenTelemetry/files",
-    "01-Projects/Hundred Alts/Untitled Diagram 1.svg",
     "';w",
     "02-Areas/Systems/Kredo",
     "01-Projects/OpenTelemetry",
     "01-Projects/OpenTelemetryy",
     "02-Areas/DailyNotes",
     "01-Projects/Hundred Alts/files",
-    "Untitled Diagram.svg",
     "02 - Areas/SearchHistorySuggester",
-    "02 - Areas/Autoalt/HybridSolution.svg",
     "02 - Areas/Autoalt/Autoalt.canvas",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
