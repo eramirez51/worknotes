@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Areas/DailyNotes/2024-03-18.md",
+                    "file": "02-Areas/DailyNotes/2024-03-19.md",
                     "mode": "source",
                     "source": false
                   }
@@ -74,8 +74,8 @@
                       },
                       "serial": {
                         "columns": 172,
-                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 31, done.\r\nCounting objects: 100% (31/31), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (19/19), done.\r\nWriting objects: 100% (19/19), 416.75 KiB | 34.73 MiB/s, done.\r\nTotal 19 (delta 9), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (9/9), completed with 9 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   7d48eca..f907056  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                  \r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                               \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
-                        "rows": 11
+                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 31, done.\r\nCounting objects: 100% (31/31), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (19/19), done.\r\nWriting objects: 100% (19/19), 416.75 KiB | 34.73 MiB/s, done.\r\nTotal 19 (delta 9), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (9/9), completed with 9 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   7d48eca..f907056  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                  \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 24, done.\r\nCounting objects: 100% (24/24), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (13/13), 2.51 KiB | 2.51 MiB/s, done.\r\nTotal 13 (delta 8), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (8/8), completed with 8 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   f907056..0753a9e  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                            \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\r\n\u001b[1A\u001b[0m",
+                        "rows": 18
                       }
                     }
                   },
@@ -267,15 +267,23 @@
   },
   "active": "b77b0976721f4e5e",
   "lastOpenFiles": [
-    "02-Areas/DailyNotes/2024-03-18.md",
-    "02-Areas/DailyNotes/2024-03-11.md",
-    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "02-Areas/DailyNotes/2024-03-19.md",
+    "02-Areas/Systems/00 - Airflow/DAGs/🎯 Adult DAG.md",
     "01-Projects/DevOps/🎯 Adult DAG Parallelize.md",
+    "02-Areas/Systems/00 - Airflow/🕎 00 - Airflow.md",
+    "02-Areas/DailyNotes/2024-03-17.md",
+    "02-Areas/Systems/00 - Airflow",
+    "02-Areas/Systems/00 - Airflow/DAGs",
+    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+    "02-Areas/DailyNotes/2024-03-18.md",
+    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "02-Areas/Systems/🕎 00 - Concourse.md",
+    "02-Areas/Systems/🕎 00 - TD to BQ Exporter.md",
+    "02-Areas/DailyNotes/2024-03-11.md",
     "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
     "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
     "02-Areas/DevOps/2024-03-06-dbtdocs_migration.md",
     "01-Projects/Hundred Alts/🎯 Optimize Bigtable Schema.md",
-    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
     "02-Areas/Systems/🕎 00 - Streamset.md",
     "01-Projects/Hundred Alts/files/load_test_all_users_reverse_optimize.png",
     "01-Projects/Hundred Alts/files/fresh_write_reverse_optimize.png",
@@ -289,15 +297,9 @@
     "02-Areas/Systems/Untitled.md",
     "02-Areas/Autoalt/🕎 00 - NoKeyDB.md",
     "02-Areas/Systems/🕎 00 - DBT.md",
-    "02-Areas/Systems/🕎 00 - TD to BQ Exporter.md",
     "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
     "02-Areas/Systems/🕎 00 - LocalEnv.md",
-    "02-Areas/DailyNotes/2024-03-12.md",
-    "02-Areas/Systems/🕎 00 - Kredo.md",
     "02-Areas/Systems/files",
-    "02-Areas/Systems/🕎 00 - Airflow.md",
-    "02-Areas/Systems/files/Autoalt Dag Refactoring for 100 Alts.md",
-    "02-Areas/Autoalt/🕎 00 - Book Feed.md",
     "02-Areas/Autoalt/files/Autoalt.canvas",
     "02-Areas/Autoalt/files/HybridSolution.svg",
     "02-Areas/DailyNotes/files",
@@ -312,8 +314,6 @@
     "01-Projects/OpenTelemetry",
     "01-Projects/OpenTelemetryy",
     "02-Areas/DailyNotes",
-    "01-Projects/Hundred Alts/files",
-    "02 - Areas/SearchHistorySuggester",
     "02 - Areas/Autoalt/Autoalt.canvas",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
