@@ -58,4 +58,7 @@ Combining generating CSV and and AVRO together, the job takes 1h30mins
 After removing the CSV generation the time it took is about the same (1h30m). In comparison, previously it only took 1h30m to generate the joined reco files (without Avro).
 
 * Modified the [[🕎 00 - BigTableTools]] to instead just use Avro instead of CSV https://github.com/u-next/datascience-infra-starship/pull/127. Im now testing its performance
-* 
+
+Deployed to BigTable-prod
+*   Addtl deployment of Bigtable data to prod. Onegaishimasu  [https://github.com/u-next/ds-autoaltmakers/pull/394](https://github.com/u-next/ds-autoaltmakers/pull/394)*
+* Changed the API to user full `user_multi_account_id` https://github.com/u-next/starship-app-autoalt/pull/405

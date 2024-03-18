@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Areas/Systems/🕎 00 - Streamset.md",
+                    "file": "02-Areas/DailyNotes/2024-03-18.md",
                     "mode": "source",
                     "source": false
                   }
@@ -73,9 +73,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 194,
-                        "data": " \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !4 \u001b[38;5;39m?6\u001b[0m                                                                                                                              \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
-                        "rows": 13
+                        "columns": 172,
+                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 31, done.\r\nCounting objects: 100% (31/31), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (19/19), done.\r\nWriting objects: 100% (19/19), 416.75 KiB | 34.73 MiB/s, done.\r\nTotal 19 (delta 9), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (9/9), completed with 9 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   7d48eca..f907056  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                  \r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                               \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m ",
+                        "rows": 11
                       }
                     }
                   },
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 479.5
   },
   "right": {
     "id": "056ca1831cb5e4a6",
@@ -267,17 +267,20 @@
   },
   "active": "b77b0976721f4e5e",
   "lastOpenFiles": [
-    "02-Areas/Systems/🕎 00 - Streamset.md",
-    "01-Projects/Hundred Alts/🎯 Optimize Bigtable Schema.md",
-    "01-Projects/Hundred Alts/files/load_test_all_users_reverse_optimize.png",
-    "01-Projects/Hundred Alts/files/fresh_write_reverse_optimize.png",
     "02-Areas/DailyNotes/2024-03-18.md",
-    "02-Areas/DailyNotes/2024-03-14.md",
-    "01-Projects/Hundred Alts/files/load_test_with_page_public_code_as_column_qualifer.png",
+    "02-Areas/DailyNotes/2024-03-11.md",
+    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "01-Projects/DevOps/🎯 Adult DAG Parallelize.md",
     "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
     "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
-    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
+    "02-Areas/DevOps/2024-03-06-dbtdocs_migration.md",
+    "01-Projects/Hundred Alts/🎯 Optimize Bigtable Schema.md",
     "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
+    "02-Areas/Systems/🕎 00 - Streamset.md",
+    "01-Projects/Hundred Alts/files/load_test_all_users_reverse_optimize.png",
+    "01-Projects/Hundred Alts/files/fresh_write_reverse_optimize.png",
+    "02-Areas/DailyNotes/2024-03-14.md",
+    "01-Projects/Hundred Alts/files/load_test_with_page_public_code_as_column_qualifer.png",
     "03-Resources/UsefulCommands/commands.md",
     "01-Projects/Hundred Alts/Untitled Diagram.svg",
     "02-Areas/DailyNotes/2024-03-13.md",
@@ -294,10 +297,7 @@
     "02-Areas/Systems/files",
     "02-Areas/Systems/🕎 00 - Airflow.md",
     "02-Areas/Systems/files/Autoalt Dag Refactoring for 100 Alts.md",
-    "02-Areas/DailyNotes/2024-03-11.md",
     "02-Areas/Autoalt/🕎 00 - Book Feed.md",
-    "03-Resources/Medium/2024-03-08-Integrating Vector Databases with LLMs: A Hands-On Guide.md",
-    "00-Inbox/Reading List.md",
     "02-Areas/Autoalt/files/Autoalt.canvas",
     "02-Areas/Autoalt/files/HybridSolution.svg",
     "02-Areas/DailyNotes/files",
