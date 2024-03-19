@@ -15,3 +15,4 @@ status: In Progress
 - [ ] Separate the bigtabletools uploader config in [[🕎 00 - Starship]] repo
 - [ ] Move lmdb file between envs - https://github.com/u-next/starship-app-autoalt/pull/407
 - [ ] When table is created, add partition expiration and require partition filter
+- [ ] Double check that the 100 alts logic is correct

@@ -15,3 +15,4 @@ PRs
 * Change LMDB paths to be compatible with the DAG
 	* To staging: https://github.com/u-next/starship-app-autoalt/pull/407
 	* To main: https://github.com/u-next/starship-app-autoalt/pull/408s
+* Addtl filters, move lmdb to staging and prod https://jira.unext-info.jp/browse/RECO-1513
