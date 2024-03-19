@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Projects/DevOps/🎯 Adult DAG Parallelize.md",
+                    "file": "01-Projects/Hundred Alts/🎯 06-Finalizing Notes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -73,8 +73,8 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 172,
-                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 31, done.\r\nCounting objects: 100% (31/31), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (19/19), done.\r\nWriting objects: 100% (19/19), 416.75 KiB | 34.73 MiB/s, done.\r\nTotal 19 (delta 9), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (9/9), completed with 9 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   7d48eca..f907056  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                  \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 24, done.\r\nCounting objects: 100% (24/24), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (13/13), 2.51 KiB | 2.51 MiB/s, done.\r\nTotal 13 (delta 8), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (8/8), completed with 8 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   f907056..0753a9e  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                            \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 29, done.\r\nCounting objects: 100% (29/29), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (16/16), done.\r\nWriting objects: 100% (18/18), 2.62 KiB | 2.62 MiB/s, done.\r\nTotal 18 (delta 10), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (10/10), completed with 10 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   0753a9e..aabb440  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                                                                           \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Tue Mar 19 2024 09:23:07 GMT+0900 (Japan Standard Time)\r\n\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mls\r\n\u001b[34;1m00-Inbox\u001b[0m  \u001b[34;1m01-Projects\u001b[0m  \u001b[34;1m02-Areas\u001b[0m  \u001b[34;1m03-Resources\u001b[0m  \u001b[34;1m04-Archives\u001b[0m  \u001b[34;1mTemplates\r\n\u001b[38;5;76;22m❯\u001b[0m \u001b[32mlg\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[14A\u001b[0m",
+                        "columns": 176,
+                        "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 31, done.\r\nCounting objects: 100% (31/31), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (19/19), done.\r\nWriting objects: 100% (19/19), 416.75 KiB | 34.73 MiB/s, done.\r\nTotal 19 (delta 9), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (9/9), completed with 9 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   7d48eca..f907056  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178m!1\u001b[0m                                                                                                                  \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 24, done.\r\nCounting objects: 100% (24/24), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (13/13), 2.51 KiB | 2.51 MiB/s, done.\r\nTotal 13 (delta 8), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (8/8), completed with 8 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   f907056..0753a9e  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                            \r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 29, done.\r\nCounting objects: 100% (29/29), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (16/16), done.\r\nWriting objects: 100% (18/18), 2.62 KiB | 2.62 MiB/s, done.\r\nTotal 18 (delta 10), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (10/10), completed with 10 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   0753a9e..aabb440  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                                                                           \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \r\n * Restored history at Tue Mar 19 2024 09:23:07 GMT+0900 (Japan Standard Time)\r\n\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mls\r\n\u001b[34;1m00-Inbox\u001b[0m  \u001b[34;1m01-Projects\u001b[0m  \u001b[34;1m02-Areas\u001b[0m  \u001b[34;1m03-Resources\u001b[0m  \u001b[34;1m04-Archives\u001b[0m  \u001b[34;1mTemplates\r\n\u001b[38;5;76;22m❯\u001b[0m \u001b[32mlg\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32mgit\u001b[0m push origin `git rev-parse --abbrev-ref HEAD`\r\nEnumerating objects: 7, done.\r\nCounting objects: 100% (7/7), done.\r\nDelta compression using up to 16 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (4/4), 776 bytes | 776.00 KiB/s, done.\r\nTotal 4 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/eramirez51/worknotes.git\r\n   aabb440..5b50452  main -> main\r\n \u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/apps/projects/eugene/\u001b[38;5;39;1mworknotes\u001b[38;5;31;22m \u001b[0mon \u001b[38;5;76m \u001b[38;5;178m \u001b[38;5;76m main \u001b[38;5;178mwip !1\u001b[0m                                                                                                               \u001b[38;5;37m  base\r\n\u001b[38;5;76m❯\u001b[0m \u001b[32ml\u001b[90ms\r\n\r\n\r\n\u001b[3A\u001b[3C\u001b[0m",
                         "rows": 18
                       }
                     }
@@ -247,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,6 +267,17 @@
   },
   "active": "b77b0976721f4e5e",
   "lastOpenFiles": [
+    "01-Projects/Hundred Alts/🎯 06-Finalizing Notes.md",
+    "01-Projects/Hundred Alts/🎯 05-Validate Join Via BigQuery.md",
+    "01-Projects/Hundred Alts/🎯 03-Optimize Bigtable Schema.md",
+    "01-Projects/Hundred Alts/🎯 04-UploadToBigTable.md",
+    "01-Projects/Hundred Alts/🎯 01-Load Test with OTEL.md",
+    "01-Projects/Hundred Alts/🎯 00-Deploy to Prod.md",
+    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
+    "01-Projects/OpenTelemetry/🎯 Add_OTEL_support_to_API.md",
+    "02-Areas/Systems/🕎 00 - APM.md",
+    "02-Areas/Systems/🕎 00 - TD to BQ Exporter.md",
+    "01-Projects/Hundred Alts/🎯Add_OTEL_support_to_API.md",
     "01-Projects/DevOps/🎯 Adult DAG Parallelize.md",
     "02-Areas/DailyNotes/2024-03-19.md",
     "02-Areas/Systems/00 - Airflow/DAGs/🎯 Adult DAG.md",
@@ -274,16 +285,10 @@
     "02-Areas/DailyNotes/2024-03-17.md",
     "02-Areas/Systems/00 - Airflow",
     "02-Areas/Systems/00 - Airflow/DAGs",
-    "01-Projects/Hundred Alts/🎯 Validate Join Via BigQuery.md",
     "02-Areas/DailyNotes/2024-03-18.md",
-    "01-Projects/Hundred Alts/🎯 UploadToBigTable.md",
     "02-Areas/Systems/🕎 00 - Concourse.md",
-    "02-Areas/Systems/🕎 00 - TD to BQ Exporter.md",
     "02-Areas/DailyNotes/2024-03-11.md",
-    "01-Projects/Hundred Alts/🎯 Deploy to Prod.md",
-    "01-Projects/Hundred Alts/🎯 Load Test with OTEL.md",
     "02-Areas/DevOps/2024-03-06-dbtdocs_migration.md",
-    "01-Projects/Hundred Alts/🎯 Optimize Bigtable Schema.md",
     "02-Areas/Systems/🕎 00 - Streamset.md",
     "01-Projects/Hundred Alts/files/load_test_all_users_reverse_optimize.png",
     "01-Projects/Hundred Alts/files/fresh_write_reverse_optimize.png",
@@ -294,11 +299,6 @@
     "02-Areas/DailyNotes/2024-03-13.md",
     "02-Areas/Systems/🕎 00 - BigTableTools.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
-    "02-Areas/Systems/Untitled.md",
-    "02-Areas/Autoalt/🕎 00 - NoKeyDB.md",
-    "02-Areas/Systems/🕎 00 - DBT.md",
-    "01-Projects/OpenTelemetry/🎯 Create_APM_kredo_credential.md",
-    "02-Areas/Systems/🕎 00 - LocalEnv.md",
     "02-Areas/Systems/files",
     "02-Areas/Autoalt/files/Autoalt.canvas",
     "02-Areas/Autoalt/files/HybridSolution.svg",

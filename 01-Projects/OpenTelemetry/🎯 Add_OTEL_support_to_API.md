@@ -17,7 +17,7 @@ Plan
 How to do
 * Conditionally do tracing based if env variable (`ENABLE_OTEL_TRACING`?) exist? https://github.com/u-next/datascience-infra-starship/blob/9d00726273f6487fff850e923f457d92b7366856/src/apm/server.js
 * Add a `tracing.js` but use `koajs` instead of `hapi`. Use this library "https://www.npmjs.com/package/@opentelemetry/instrumentation-koa"
-* Then do [[🎯 Load Test with OTEL]]
+* Then do [[🎯 01-Load Test with OTEL]]
 
 # POC
 * https://github.com/u-next/datascience-infra-starship/pull/121/files
