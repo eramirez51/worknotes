@@ -11,8 +11,9 @@ priority: Medium
 status: In Progress
 ---
 # Todos
-- [ ] Fix the location deployment file location in the DAG. Prod data should be isolated
-- [ ] Separate the bigtabletools uploader config in [[🕎 00 - Starship]] repo
-- [ ] Move lmdb file between envs - https://github.com/u-next/starship-app-autoalt/pull/407
-- [ ] When table is created, add partition expiration and require partition filter
-- [ ] Double check that the 100 alts logic is correct
+- [x] Fix the deployment file location in the DAG. Prod data should be isolated ✅ 2024-03-22
+- [x] Separate the bigtabletools uploader config in [[🕎 00 - Starship]] repo ✅ 2024-03-22
+- [x] Move lmdb file between envs - https://github.com/u-next/starship-app-autoalt/pull/407 ✅ 2024-03-22
+- [x] When table is created, add partition expiration and require partition filter ✅ 2024-03-22
+- [ ] Double check that the 100 alts logic is correct - Do quick chat with Jens and Alex
+- [x] Dont upload to BQ if not data is not uploaded to prod ✅ 2024-03-22
