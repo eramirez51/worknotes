@@ -51,3 +51,10 @@ chmod 400 ~/apps/keys/meerkat.pem
 
 ssh -i /keys/meerkat.pem eugene@meerkatpc
 ```
+
+
+# Get actual starship credential, instead of from Rancher
+
+```
+gcloud container clusters get-credentials ds-starship-unext-dev2-app --zone asia-northeast1-a --project unext-recommender-system
+```
