@@ -16,3 +16,7 @@ PRs
 	* To staging: https://github.com/u-next/starship-app-autoalt/pull/407
 	* To main: https://github.com/u-next/starship-app-autoalt/pull/408s
 * Addtl filters, move lmdb to staging and prod https://jira.unext-info.jp/browse/RECO-1513
+*  [[2024-03-26]] Changed `src/bigtabletools` backup location https://github.com/u-next/datascience-infra-starship/pull/129
+*  [[2024-03-26]] Moved the `bigtable table id` config location https://github.com/u-next/ds-autoaltmakers/pull/402
+*  [[2024-03-26]] Addtl triggered branch - https://github.com/u-next/datascience-recommendation-central/pull/105
+*  [[2024-03-26]] Cleanup bigtable file - https://github.com/u-next/ds-airflow-2-gke/pull/707
