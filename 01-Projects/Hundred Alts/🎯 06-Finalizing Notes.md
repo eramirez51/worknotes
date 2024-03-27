@@ -17,4 +17,4 @@ status: In Progress
 - [x] When table is created, add partition expiration and require partition filter ✅ 2024-03-22
 - [x] Dont upload to BQ if not data is not uploaded to prod ✅ 2024-03-26
 - [ ] Double check that the 100 alts logic is correct - Do quick chat with Jens and Alex
-- [ ] Add the yaml file to `./src/bigtabletools` of [[🕎 00 - Starship]] repo
+- [x] Add the yaml file to `./src/bigtabletools` of [[🕎 00 - Starship]] repo ✅ 2024-03-26
