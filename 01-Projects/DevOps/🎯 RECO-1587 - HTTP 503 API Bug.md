@@ -23,3 +23,6 @@ https://jira.unext-info.jp/browse/RECO-1587
 * I think the main cause is that because we are not using `kubernetes probes`, the pod is receiving traffic even though the pod is not ready to receive it. This is very obvious with LeadTitle as it restarts every hour. 
 * I will need to modify a lot of APIs just to fully fix this then this Story will never end. 
 * I decided to move make an Epic out of this so that we may start moving things one-by-one and several of them per Sprint.
+
+This is bigger than expected. Made an Epic. https://jira.unext-info.jp/browse/RECO-1606
+https://u-next.slack.com/archives/C03LB84N5M0/p1711603590150999
