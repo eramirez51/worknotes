@@ -25,3 +25,4 @@ PRs
 * [[04-Archives/2024-02-14-Archives/2024-03-27]] Synced the hundred_alts config same with mixing config - https://github.com/u-next/ds-autoaltmakers/pull/407
 * [[2024-03-28]] Addtl cache clear and slack - https://github.com/u-next/ds-autoaltmakers/pull/410
 * [[2024-03-28]] Force to Superusers - https://github.com/u-next/starship-app-ab-service/pull/106
+* [[2024-03-29]]  Modifed the tobq uploader to send to sandbox is env is dev. https://github.com/u-next/ds-autoaltmakers/pull/412
