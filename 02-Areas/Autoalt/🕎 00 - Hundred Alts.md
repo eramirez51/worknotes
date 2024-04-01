@@ -25,6 +25,13 @@ table without id file.link AS "Archives"
 from "01 - Archives" and #Project and #Autoalt and #hundred_alts
 ```
 
+# Stats
+* Joined - 133 GB
+* Details - 100GB
+* Pages - 9.4 GB
+* Users Count - 4.3M
+
+
 #  🧮 TODO s
 * Data Integrity Test
 * Acceptance Test
