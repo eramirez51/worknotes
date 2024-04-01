@@ -12,8 +12,8 @@ https://jira.unext-info.jp/browse/RECO-1590
 	* All using `tobqpy`
 
 `tobq` - might need to move these to `tobqpy`
-* [ ] dags/Beemi_Package_Recommender_AutoALT_general_implicit_Jinja.py
-* [ ] dags/Beemi_Package_Recommender_AutoALT_planet_implicit_Jinja.py
+* [x] dags/Beemi_Package_Recommender_AutoALT_general_implicit_Jinja.py ✅ 2024-04-01
+* [x] dags/Beemi_Package_Recommender_AutoALT_planet_implicit_Jinja.py ✅ 2024-04-01
 * [ ] dags/book_artificial_book_series.py
 * [ ] dags/book_related.py
 * [ ] dags/capy_extractor.py
@@ -30,15 +30,15 @@ https://jira.unext-info.jp/browse/RECO-1590
 * [ ] dags/kind_notification_video.py
 
 ## AutoaltMakers
-* [ ] dags/Book_sakuhin_Recommender_AutoALT_implicit_all_Jinja.py
-* [ ] dags/Book_sakuhin_Recommender_AutoALT_implicit_random_Jinja.py
-* [ ] dags/Gelatoni_Recommender_AutoALT_implicit_Jinja.py
-* [ ] dags/Ippan_Recommender_AutoALT_mixing_random.py
-* [ ] dags/Ippan_Recommender_AutoALT_mixing.py
-* [ ] dags/Ippan_Recommender_AutoALT_wtr_nokeydb.py
-* [ ] dags/Label_Recommender_AutoALT_implicit_Jinja.py
-* [ ] dags/Semiadult_Recommender_AutoALT_implicit_Jinja.py
-* [ ] dags/Sport_Recommender_AutoALT_implicit_Jinja.py
+* [x] dags/Book_sakuhin_Recommender_AutoALT_implicit_all_Jinja.py ✅ 2024-04-01
+* [x] dags/Book_sakuhin_Recommender_AutoALT_implicit_random_Jinja.py ✅ 2024-04-01
+* [x] dags/Gelatoni_Recommender_AutoALT_implicit_Jinja.py ✅ 2024-04-01
+* [x] dags/Ippan_Recommender_AutoALT_mixing_random.py ✅ 2024-04-01
+* [x] dags/Ippan_Recommender_AutoALT_mixing.py ✅ 2024-04-01
+* [x] dags/Ippan_Recommender_AutoALT_wtr_nokeydb.py ✅ 2024-04-01
+* [x] dags/Label_Recommender_AutoALT_implicit_Jinja.py ✅ 2024-04-01
+* [x] dags/Semiadult_Recommender_AutoALT_implicit_Jinja.py ✅ 2024-04-01
+* [x] dags/Sport_Recommender_AutoALT_implicit_Jinja.py ✅ 2024-04-01
 
 
 I cannot use the python API, but it seems i can execute a follow up command after like below
