@@ -41,3 +41,8 @@ https://jira.unext-info.jp/browse/RECO-1590
 * [ ] dags/Sport_Recommender_AutoALT_implicit_Jinja.py
 
 
+I cannot use the python API, but it seems i can execute a follow up command after like below
+```bash	
+	bq update --require_partition_filter ${PROJECT}:${DATASET}.${TABLE_NAME}
+```
+
