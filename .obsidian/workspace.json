@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
+                "file": "02-Areas/Systems/🕎 00 - Streamset.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
+                "file": "02-Areas/Systems/🕎 00 - Streamset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
+                "file": "02-Areas/Systems/🕎 00 - Streamset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md"
+                "file": "02-Areas/Systems/🕎 00 - Streamset.md"
               }
             }
           }
@@ -174,11 +174,12 @@
   },
   "active": "763395b52758b98f",
   "lastOpenFiles": [
+    "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
+    "01-Projects/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "01-Projects/DevOps/🎯 Adult DAG Parallelize.md",
     "01-Projects/DevOps/🎯 RECO-1587 - HTTP 503 API Bug.md",
     "02-Areas/DailyNotes/2024-04-01.md",
-    "01-Projects/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
     "01-Projects/Hundred Alts/🎯 00-PRs.md"
   ]
 }
