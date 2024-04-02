@@ -8,28 +8,20 @@ https://jira.unext-info.jp/browse/RECO-1590
 * Add `Partition Expiration` if it is incremental parition
 # Usages
 `tobqpy`
-* ds-airflow-2-dataops
-	* All using `tobqpy`
-
-`tobq` - might need to move these to `tobqpy`
+- [x] ds-airflow-2-dataops/book_cmsreco_fetcher.py ✅ 2024-04-02
 * [x] dags/Beemi_Package_Recommender_AutoALT_general_implicit_Jinja.py ✅ 2024-04-01
 * [x] dags/Beemi_Package_Recommender_AutoALT_planet_implicit_Jinja.py ✅ 2024-04-01
-* [ ] dags/book_artificial_book_series.py
-* [ ] dags/book_related.py
-* [ ] dags/capy_extractor.py
-* [ ] dags/dsembed_tag_generation.py
-
-# Via DagGenerator
-## Kind Notififcation template
-* [ ] dags/kind_notification_book_mylist_ref.py
-* [ ] dags/kind_notification_book_mylist.py
-* [ ] dags/kind_notification_book.py
-* [ ] dags/kind_notification_bookpreorder.py
-* [ ] dags/kind_notification_video_mylist_ref.py
-* [ ] dags/kind_notification_video_mylist.py
-* [ ] dags/kind_notification_video.py
-
-## AutoaltMakers
+* [x] dags/book_artificial_book_series.py ✅ 2024-04-01
+* [x] dags/book_related.py ✅ 2024-04-01
+* [x] dags/capy_extractor.py - this is not partitioned. ignore ✅ 2024-04-01
+* [x] dags/dsembed_tag_generation.py - unusual `gcscil tobq` pattern. does not use partition, ignore ✅ 2024-04-01
+* [x] dags/kind_notification_book_mylist_ref.py ✅ 2024-04-02
+* [x] dags/kind_notification_book_mylist.py ✅ 2024-04-02
+* [x] dags/kind_notification_book.py ✅ 2024-04-02
+* [x] dags/kind_notification_bookpreorder.py ✅ 2024-04-02
+* [x] dags/kind_notification_video_mylist_ref.py ✅ 2024-04-02
+* [x] dags/kind_notification_video_mylist.py ✅ 2024-04-02
+* [x] dags/kind_notification_video.py ✅ 2024-04-02
 * [x] dags/Book_sakuhin_Recommender_AutoALT_implicit_all_Jinja.py ✅ 2024-04-01
 * [x] dags/Book_sakuhin_Recommender_AutoALT_implicit_random_Jinja.py ✅ 2024-04-01
 * [x] dags/Gelatoni_Recommender_AutoALT_implicit_Jinja.py ✅ 2024-04-01
@@ -46,3 +38,11 @@ I cannot use the python API, but it seems i can execute a follow up command afte
 	bq update --require_partition_filter ${PROJECT}:${DATASET}.${TABLE_NAME}
 ```
 
+
+# PRS
+* Autoalt Maker
+	* https://github.com/u-next/ds-autoaltmakers/pull/414
+* Airflow2gke
+	* https://github.com/u-next/ds-airflow-2-gke/pull/711
+* Airflow2Dataops
+	* https://github.com/u-next/ds-airflow-2-dataops/pull/75
