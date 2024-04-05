@@ -72,3 +72,6 @@ With this new solution, the Load Test still looks good
 > - If you set that one to true, it should then give 100 reco for every genre the user is watching: [https://github.com/u-next/ds-autoaltmakers/blob/main/src/autoaltmakers/autoaltmakers/configs/leanback_ippan_autoalt_config.yaml#L198](https://github.com/u-next/ds-autoaltmakers/blob/main/src/autoaltmakers/autoaltmakers/configs/leanback_ippan_autoalt_config.yaml#L198)
 > 
  
+# Additional Tasks
+* P2: Recommendation: 100ALTs: Prepare AB Test Analysis - https://jira.unext-info.jp/browse/RECO-1616
+* 

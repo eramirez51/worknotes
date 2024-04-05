@@ -3,6 +3,7 @@ id: Reading List
 aliases: 
 tags:
 ---
+* SqlCoder in SageMaker https://www.joumenharzli.com/blog/deploy-your-own-private-llm-chatbot-using-aws-sagemaker-huggingface-terraform/
 * https://www.qwak.com/post/fine-tune-llms-on-your-data
 * https://mlengineering.medium.com/integrating-vector-databases-with-llms-a-hands-on-guide-82d2463114fb
 * https://blog.curiosity.ai/introduction-to-rag-genai-systems-for-knowledge-918a34054228
