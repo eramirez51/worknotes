@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/Sprint/41 - Sprint.md",
+                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/Sprint/41 - Sprint.md",
+                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/Sprint/41 - Sprint.md",
+                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/Sprint/41 - Sprint.md"
+                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md"
               }
             }
           }
@@ -185,15 +185,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8c9cf9a223fe98",
+  "active": "db03aba6713b866f",
   "lastOpenFiles": [
+    "02-Areas/Systems/DBT Canvas.canvas",
+    "02-Areas/Systems/🕎 00 - DBT.md",
+    "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
+    "01-Projects/Hundred Alts/RECO-1625 Deploy to Superusers.md",
+    "01-Projects/Hundred Alts/07- RECO-1513 Final adjustments.md",
+    "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
     "02-Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
     "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "01-Projects/Sprint/41 - Sprint.md",
     "01-Projects/Sprint",
     "02-Areas/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
-    "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
     "02-Areas/DailyNotes/2024-04-02.md",
     "00-Inbox/Reading List.md",
     "02-Areas/DailyNotes/2024-04-01.md",
