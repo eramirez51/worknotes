@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
+                "file": "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "semant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md"
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,21 +184,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db03aba6713b866f",
+  "active": "763395b52758b98f",
   "lastOpenFiles": [
+    "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
+    "03-Resources/Obsidian Resources.md",
+    "02-Areas/SearchHistorySuggester 1/🎯 Design.md",
+    "02-Areas/DailyNotes/2024-04-10.md",
+    "01-Projects/DevOps/RECO-1607 - Add Kubernetes Probes - Autoalts.md",
+    "01-Projects/DevOps/🎯 RECO-1587 - HTTP 503 API Bug.md",
+    "01-Projects/Hundred Alts/RECO-1625 Deploy to Superusers.md",
+    "02-Areas/DailyNotes/2024-04-02.md",
+    "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
+    "01-Projects/Semantic Layer",
+    "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
+    "01-Projects/Hundred Alts/07- RECO-1513 Final adjustments.md",
+    "02-Areas/Systems/🕎 00 - ToBQ.md",
     "02-Areas/Systems/DBT Canvas.canvas",
     "02-Areas/Systems/🕎 00 - DBT.md",
-    "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
-    "01-Projects/Hundred Alts/RECO-1625 Deploy to Superusers.md",
-    "01-Projects/Hundred Alts/07- RECO-1513 Final adjustments.md",
-    "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
     "02-Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
     "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "01-Projects/Sprint/41 - Sprint.md",
     "01-Projects/Sprint",
     "02-Areas/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
-    "02-Areas/DailyNotes/2024-04-02.md",
     "00-Inbox/Reading List.md",
     "02-Areas/DailyNotes/2024-04-01.md",
     "02-Areas/DailyNotes/2024-04-29.md",
@@ -207,7 +214,6 @@
     "02-Areas/DailyNotes/2024-04-27.md",
     "02-Areas/Systems/🕎 00 - Streamset.md",
     "02-Areas/DevOps/🎯 Adult DAG Parallelize.md",
-    "01-Projects/DevOps/🎯 RECO-1587 - HTTP 503 API Bug.md",
     "01-Projects/Hundred Alts/🎯 00-PRs.md"
   ]
 }

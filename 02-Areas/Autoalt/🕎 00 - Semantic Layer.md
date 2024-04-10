@@ -25,3 +25,9 @@ https://discourse.getdbt.com/t/is-kimball-dimensional-modeling-still-relevant-in
 
 Looker and LLM
 https://github.com/looker-open-source/extension-gen-ai
+
+DBT Dimensional modelling. Kimball
+https://github.com/Data-Engineer-Camp/dbt-dimensional-modelling?tab=readme-ov-file#dimensional-modelling
+
+Churn
+https://towardsdatascience.com/dimensional-modelling-for-customer-churn-9d0148548f04
