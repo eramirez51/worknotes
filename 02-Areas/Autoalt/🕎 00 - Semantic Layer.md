@@ -27,7 +27,13 @@ Looker and LLM
 https://github.com/looker-open-source/extension-gen-ai
 
 DBT Dimensional modelling. Kimball
-https://github.com/Data-Engineer-Camp/dbt-dimensional-modelling?tab=readme-ov-file#dimensional-modelling
+* https://github.com/Data-Engineer-Camp/dbt-dimensional-modelling?tab=readme-ov-file#dimensional-modelling
+	* https://docs.getdbt.com/blog/kimball-dimensional-model
+* https://github.com/norton120/kimball_dbt
+
 
 Churn
 https://towardsdatascience.com/dimensional-modelling-for-customer-churn-9d0148548f04
+
+Date dimension
+https://medium.com/indiciumtech/date-dimension-how-to-create-a-practical-and-useful-date-dimension-in-dbt-5ee70a18f3bb

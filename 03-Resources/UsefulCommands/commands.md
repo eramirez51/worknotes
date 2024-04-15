@@ -58,3 +58,9 @@ ssh -i /keys/meerkat.pem eugene@meerkatpc
 ```
 gcloud container clusters get-credentials ds-starship-unext-dev2-app --zone asia-northeast1-a --project unext-recommender-system
 ```
+
+# Shuffle member names
+
+```
+myArray=("CK" "Jens" "Paul" "Eugene" "Miao" "Chen" "Alex") && myArray=( $(shuf -e "${myArray[@]}") ) && myArray=( $(shuf -e "${myArray[@]}") ) && echo "${myArray[@]}"
+```
