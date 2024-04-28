@@ -64,3 +64,10 @@ gcloud container clusters get-credentials ds-starship-unext-dev2-app --zone asia
 ```
 myArray=("CK" "Jens" "Paul" "Eugene" "Miao" "Chen" "Alex") && myArray=( $(shuf -e "${myArray[@]}") ) && myArray=( $(shuf -e "${myArray[@]}") ) && echo "${myArray[@]}"
 ```
+
+
+# Login to concoure
+
+```
+fly login -t starship --concourse-url http://prod.concourse.infra.datascience-team.dev-unext.com/ --username admin
+```

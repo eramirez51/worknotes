@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md",
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/UsefulCommands/commands.md"
+                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md"
               }
             }
           }
@@ -198,12 +198,16 @@
   },
   "active": "eb881394c71ebd51",
   "lastOpenFiles": [
+    "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
+    "01-Projects/LLM/Research.md",
+    "Templates/note.md",
+    "03-Resources/UsefulCommands/commands.md",
+    "01-Projects/LLM",
     "02-Areas/Autoalt/files/HybridSolution.svg",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
     "02-Areas/DailyNotes/2024-04-11.md",
     "02-Areas/DailyNotes/2024-04-10.md",
-    "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
     "03-Resources/Obsidian Resources.md",
     "02-Areas/SearchHistorySuggester 1/🎯 Design.md",
     "01-Projects/DevOps/RECO-1607 - Add Kubernetes Probes - Autoalts.md",
@@ -224,8 +228,6 @@
     "00-Inbox/Reading List.md",
     "02-Areas/DailyNotes/2024-04-01.md",
     "02-Areas/DailyNotes/2024-04-29.md",
-    "02-Areas/DailyNotes/2024-04-26.md",
-    "02-Areas/DailyNotes/2024-04-27.md",
-    "02-Areas/Systems/🕎 00 - Streamset.md"
+    "02-Areas/DailyNotes/2024-04-26.md"
   ]
 }
