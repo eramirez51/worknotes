@@ -1,0 +1,5 @@
+
+Customer-analytics-pattern-mining-on-clickstream-data-in-python
+using sequence mining
+https://medium.com/@brechterlaurin/customer-analytics-pattern-mining-on-clickstream-data-in-python-1bcd2de15a5d
+

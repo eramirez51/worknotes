@@ -100,3 +100,9 @@ myArray=("CK" "Jens" "Paul" "Eugene" "Miao" "Chen" "Alex") && myArray=( $(shuf -
 ```
 fly login -t starship --concourse-url http://prod.concourse.infra.datascience-team.dev-unext.com/ --username admin
 ```
+
+# Change key permission
+
+```
+chmod 400 ~/.ssh/id_rsa
+```
