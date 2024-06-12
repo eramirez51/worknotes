@@ -3,6 +3,19 @@ id: commands
 aliases: []
 tags: []
 ---
+Fly login
+```
+fly login -t starship --concourse-url http://prod1.concourse.infra.datascience-team.dev-unext.com/--username admin --password recoreco
+```
+
+
+Destroy stuck namespace
+
+```
+NS="starship-api"&& kubectl get namespace "$NS" -o json \
+  | tr -d "\n" | sed "s/\"finalizers\": \[[^]]\+\]/\"finalizers\": []/" \
+  | kubectl replace --raw /api/v1/namespaces/$NS/finalize -f -
+```
 
 # OpenVPN
 ```
