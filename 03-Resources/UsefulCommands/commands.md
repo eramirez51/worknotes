@@ -3,6 +3,22 @@ id: commands
 aliases: []
 tags: []
 ---
+Resolve DNS Cache
+```bash
+sudo resolvectl flush-caches
+```
+
+Configure GCP Docker
+```bash
+
+ # Artifact Registry
+ gcloud auth configure-docker asia-northeast1-docker.pkg.dev
+
+ # Container Registry
+ gcloud auth configure-docker
+```
+
+
 Fly login
 ```
 fly login -t starship --concourse-url http://prod1.concourse.infra.datascience-team.dev-unext.com/--username admin --password recoreco
@@ -13,7 +29,7 @@ Destroy stuck namespace
 
 ```
 NS="starship-api"&& kubectl get namespace "$NS" -o json \
-  | tr -d "\n" | sed "s/\"finalizers\": \[[^]]\+\]/\"finalizers\": []/" \
+  | tr -d "\n" | sed "s/\"finalizers\": []]\+/\"finalizers\": []/" \
   | kubectl replace --raw /api/v1/namespaces/$NS/finalize -f -
 ```
 
