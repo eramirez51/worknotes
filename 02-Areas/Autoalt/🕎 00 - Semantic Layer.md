@@ -31,7 +31,6 @@ DBT Dimensional modelling. Kimball
 	* https://docs.getdbt.com/blog/kimball-dimensional-model
 * https://github.com/norton120/kimball_dbt
 
-
 Churn
 https://towardsdatascience.com/dimensional-modelling-for-customer-churn-9d0148548f04
 
