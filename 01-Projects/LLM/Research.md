@@ -21,3 +21,10 @@ https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms
 GKE LLM
 https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-multiple-gpu
 
+Japanese article talking about Tokenizer
+https://tech.mntsq.co.jp/entry/2020/12/16/160006
+https://tech.mntsq.co.jp/entry/2021/02/26/120013
+
+Use this Japanese Wikipedia base
+https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2
+Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
