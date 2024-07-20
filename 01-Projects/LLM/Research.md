@@ -32,3 +32,5 @@ https://huggingface.co/tohoku-nlp/bert-base-japanese
 Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
 Where do they get the Japanese wiki data?
 https://yag-ays.github.io/project/cirrus/
+
+
