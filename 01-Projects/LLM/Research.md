@@ -1,8 +1,10 @@
 ---
-title: Research
-draft: false
+id: Research
+aliases: []
 tags:
   - llm
+draft: false
+title: Research
 ---
 https://cloud.google.com/vertex-ai/generative-ai/docs/learn-resources
 
@@ -25,6 +27,8 @@ Japanese article talking about Tokenizer
 https://tech.mntsq.co.jp/entry/2020/12/16/160006
 https://tech.mntsq.co.jp/entry/2021/02/26/120013
 
-Use this Japanese Wikipedia base
-https://huggingface.co/tohoku-nlp/bert-base-japanese-char-v2
+# Use this Japanese Wikipedia base
+https://huggingface.co/tohoku-nlp/bert-base-japanese
 Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
+Where do they get the Japanese wiki data?
+https://yag-ays.github.io/project/cirrus/
