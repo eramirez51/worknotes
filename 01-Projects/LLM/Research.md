@@ -28,9 +28,8 @@ https://tech.mntsq.co.jp/entry/2020/12/16/160006
 https://tech.mntsq.co.jp/entry/2021/02/26/120013
 
 # Use this Japanese Wikipedia base
-https://huggingface.co/tohoku-nlp/bert-base-japanese
+khttps://huggingface.co/tohoku-nlp/bert-base-japanese
 Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
 Where do they get the Japanese wiki data?
 https://yag-ays.github.io/project/cirrus/
-
 
