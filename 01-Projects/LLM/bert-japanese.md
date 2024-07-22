@@ -129,14 +129,36 @@ The above command shall generate the splitted sentences of the wiki like the exa
 人間が音声や文字を用いて思想・感情・意志等々を伝達するために用いる記号体系。
 およびそれを用いる行為(広辞苑)。音声や文字によって、人の意志・思想・感情などの情報を表現したり伝達する、あるいは他者のそれを受け入れ、理解するための約束・規則。
 ```
+The above command, generated `38M` sentences from Japanese Wikipedia
+```bash
+```bash
+- [ ] ❯ zcat corpus.txt.gz| wc -l
+38377663
+```
 
-After the sentences are split in a single file. We need to split in to multiple files randomly via the following command.
+After the sentences are split in a single file. We need to split generated corpus to multiple files randomly via the following command.
 
 ```bash
 python merge_split_corpora.py \
 --input_files $WORK_DIR/corpus/wikipedia/corpus.txt.gz \
 --output_dir $WORK_DIR/corpus/wikipedia \
 --num_files 8
+```
+
+Above command splitted `corpus.txt.gz` into 8 files.
+
+```bash
+❯ ls -lah
+Permissions Size User   Date Modified Name
+.rw-rw-r--  2.0G eugene 22 Jul 17:15  corpus.txt.gz
+.rw-rw-r--  654M eugene 23 Jul 08:50  corpus_01.txt
+.rw-rw-r--  663M eugene 23 Jul 08:50  corpus_02.txt
+.rw-rw-r--  657M eugene 23 Jul 08:50  corpus_03.txt
+.rw-rw-r--  670M eugene 23 Jul 08:50  corpus_04.txt
+.rw-rw-r--  663M eugene 23 Jul 08:50  corpus_05.txt
+.rw-rw-r--  658M eugene 23 Jul 08:50  corpus_06.txt
+.rw-rw-r--  664M eugene 23 Jul 08:50  corpus_07.txt
+.rw-rw-r--  671M eugene 23 Jul 08:50  corpus_08.txt
 ```
 
 
