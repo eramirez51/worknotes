@@ -36,9 +36,26 @@ Check if `mecab` is installed successfully
 か      助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 EOS
 ```
+
 Then install `neologd`
 ```bash
 sudo ./bin/install-mecab-ipadic-neologd
 ```
+It started downloading `neologd` binaries
 
+```bash
+[install-mecab-ipadic-NEologd] : Make mecab-ipadic-NEologd
+[make-mecab-ipadic-NEologd] : Start..
+[make-mecab-ipadic-NEologd] : Check local seed directory
+[make-mecab-ipadic-NEologd] : Check local seed file
+[make-mecab-ipadic-NEologd] : Check local build directory
+[make-mecab-ipadic-NEologd] : create /home/eugene/apps/projects/temps/mecab-ipadic-neologd/libexec/../build
+[make-mecab-ipadic-NEologd] : Download original mecab-ipadic file
+[make-mecab-ipadic-NEologd] : Try to access to https://ja.osdn.net
+[make-mecab-ipadic-NEologd] : Try to download from https://ja.osdn.net/frs/g_redir.php?m=kent&f=mecab%2Fmecab-ipadic%2F2.7.0-20070801%2Fmecab-ipadic-2.7.0-20070801.tar.gz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:--  0:00:27 --:--:--     0
+ 36 11.6M   36 4352k    0     0  12148      0  0:16:44  0:06:06  0:10:38  9479
+```
 
