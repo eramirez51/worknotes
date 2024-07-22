@@ -17,7 +17,6 @@ I need to learn how they use `neologd` to split the sentences
 It seems like this is a good guide how to use it. The repo itself did not say how to install thedependencies
 https://qiita.com/kado_u/items/e736600f8d295afb8bd9
 
-
 Prepare the dependencies
 ```bash
 sudo apt install mecab
