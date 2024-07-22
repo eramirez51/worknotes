@@ -161,4 +161,3 @@ Permissions Size User   Date Modified Name
 .rw-rw-r--  671M eugene 23 Jul 08:50  corpus_08.txt
 ```
 
-
