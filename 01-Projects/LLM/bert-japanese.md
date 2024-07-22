@@ -99,3 +99,40 @@ EOS
 EOS
 ```
 
+# Process files for Wikipedia
+
+```bash
+
+export WORK_DIR=/home/eugene/apps/projects/temps/bert-japanese/.build/workdir
+export DATA_DIR=/home/eugene/apps/projects/temps/bert-japanese/.build/data
+
+mkdir -p $WORK_DIR/corpus/wikipedia
+
+python make_corpus_wiki.py \
+--input_file $DATA_DIR/jawiki-20240715-cirrussearch-content.json.gz \
+--output_file $WORK_DIR/corpus/wikipedia/corpus.txt.gz \
+--min_sentence_length 10 \
+--max_sentence_length 200 \
+--mecab_option '-r /etc/mecabrc -d /var/lib/mecab/dic/mecab-ipadic-neologd'
+
+```
+
+The above command shall generate the splitted sentences of the wiki. Example below
+
+```bash
+❯ zless corpus.txt.gz
+❯ /home/eugene/apps/projects/temps/bert-japanese/.build/workdir/corpus/wikipedia/
+
+言語(げんご)は、狭義には「声による記号の体系」をいう。
+広辞苑や大辞泉には次のように解説されている。
+人間が音声や文字を用いて思想・感情・意志等々を伝達するために用いる記号体系。
+およびそれを用いる行為(広辞苑)。音声や文字によって、人の意志・思想・感情などの情報を表現したり伝達する、あるいは他者のそれを受け入れ、理解するための約束・規則。
+
+```bash
+python merge_split_corpora.py \
+--input_files $WORK_DIR/corpus/wikipedia/corpus.txt.gz \
+--output_dir $WORK_DIR/corpus/wikipedia \
+--num_files 8
+```
+
+
