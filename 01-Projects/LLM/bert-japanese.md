@@ -17,7 +17,12 @@ I need to learn how they use `neologd` to split the sentences
 It seems like this is a good guide how to use it. The repo itself did not say how to install thedependencies
 https://qiita.com/kado_u/items/e736600f8d295afb8bd9
 
+# Dependencies
 Prepare the dependencies
+
+## prepare `mecab`
+
+
 ```bash
 sudo apt install mecab
 sudo apt install libmecab-dev
@@ -36,8 +41,10 @@ Check if `mecab` is installed successfully
 か      助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 EOS
 ```
+## install `neologd`
 
 Then install `neologd`
+
 ```bash
 sudo ./bin/install-mecab-ipadic-neologd
 ```
