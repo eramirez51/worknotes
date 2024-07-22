@@ -66,3 +66,10 @@ It started downloading `neologd` binaries
  36 11.6M   36 4352k    0     0  12148      0  0:16:44  0:06:06  0:10:38  9479
 ```
 
+If above is successful, we can see it is installed in the following path
+
+```bash
+❯ ls  /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd
+char.bin  dicrc  left-id.def  matrix.bin  pos-id.def  rewrite.def  right-id.def  sys.dic  unk.dic
+```
+
