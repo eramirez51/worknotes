@@ -14,7 +14,7 @@ I need to learn how they use `neologd` to split the sentences
 
 > For the purpose of splitting texts into sentences, we used [fugashi](https://github.com/polm/fugashi) with [mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd) dictionary (v0.0.7).
 
-It seems like this is a good guide how to use it. The repo itself did not say how to install thedependencies
+It seems like followoing link is a good guide how to use it. The `neologd`'s repo does not say how to install thedependencies
 https://qiita.com/kado_u/items/e736600f8d295afb8bd9
 
 # Dependencies
@@ -71,5 +71,31 @@ If above is successful, we can see it is installed in the following path
 ```bash
 ❯ ls  /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd
 char.bin  dicrc  left-id.def  matrix.bin  pos-id.def  rewrite.def  right-id.def  sys.dic  unk.dic
+```
+
+```bash
+sudo mv /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd /var/lib/mecab/dic
+```
+Replace `dicdir` in `/etc/mecabrc`
+
+`sudo vi /etc/mecabrc`
+
+Set `dicdir` to below
+```bash
+dicdir = /var/lib/mecab/dic/mecab-ipadic-neologd ⇐ 一行追加
+```
+
+Test it again. Notice that the output is different than the previous test
+
+```bash
+❯ mecab
+特急はくたか
+特急    名詞,一般,*,*,*,*,特急,トッキュウ,トッキュー
+はくたか        名詞,固有名詞,一般,*,*,*,はくたか,ハクタカ,ハクタカ
+EOS
+特急はくたか
+特急    名詞,一般,*,*,*,*,特急,トッキュウ,トッキュー
+はくたか        名詞,固有名詞,一般,*,*,*,はくたか,ハクタカ,ハクタカ
+EOS
 ```
 
