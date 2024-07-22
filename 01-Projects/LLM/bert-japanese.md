@@ -12,12 +12,13 @@ I want to make sure that my tokenizer is same as whats done by above repo, so I 
 
 I need to learn how they use `neologd` to split the sentences
 
-> For the purpose of splitting texts into sentences, we used [fugashi](https://github.com/polm/fugashi) with [mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd) dictionary (v0.0.7).
+For the purpose of splitting texts into sentences, they used [fugashi](https://github.com/polm/fugashi) with [mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd) dictionary (v0.0.7).
 
 It seems like followoing link is a good guide how to use it. The `neologd`'s repo does not say how to install thedependencies
 https://qiita.com/kado_u/items/e736600f8d295afb8bd9
 
 # Dependencies
+
 Prepare the dependencies
 
 ## prepare `mecab`
@@ -127,6 +128,9 @@ The above command shall generate the splitted sentences of the wiki like the exa
 広辞苑や大辞泉には次のように解説されている。
 人間が音声や文字を用いて思想・感情・意志等々を伝達するために用いる記号体系。
 およびそれを用いる行為(広辞苑)。音声や文字によって、人の意志・思想・感情などの情報を表現したり伝達する、あるいは他者のそれを受け入れ、理解するための約束・規則。
+```
+
+After the sentences are split in a single file. We need to split in to multiple files randomly via the following command.
 
 ```bash
 python merge_split_corpora.py \
