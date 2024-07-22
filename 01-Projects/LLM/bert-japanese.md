@@ -85,7 +85,7 @@ Set `dicdir` to below
 dicdir = /var/lib/mecab/dic/mecab-ipadic-neologd ⇐ 一行追加
 ```
 
-Test it again. Notice that the output is different than the previous test
+Test it again. Notice that the output is different than the previous test. `はくたか` is now one line.
 
 ```bash
 ❯ mecab
