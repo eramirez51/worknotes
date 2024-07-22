@@ -117,7 +117,7 @@ python make_corpus_wiki.py \
 
 ```
 
-The above command shall generate the splitted sentences of the wiki. Example below
+The above command shall generate the splitted sentences of the wiki like the example below
 
 ```bash
 ❯ cd /home/eugene/apps/projects/temps/bert-japanese/.build/workdir/corpus/wikipedia/
