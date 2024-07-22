@@ -1,8 +1,10 @@
 ---
-title: Research
-draft: false
+id: Research
+aliases: []
 tags:
   - llm
+draft: false
+title: Research
 ---
 https://cloud.google.com/vertex-ai/generative-ai/docs/learn-resources
 
@@ -20,4 +22,20 @@ https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms
 
 GKE LLM
 https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-multiple-gpu
+
+Japanese article talking about Tokenizer
+https://tech.mntsq.co.jp/entry/2020/12/16/160006
+https://tech.mntsq.co.jp/entry/2021/02/26/120013
+
+# Use this Japanese Wikipedia base
+Where do they get the Japanese wiki data?
+https://yag-ays.github.io/project/cirrus/
+
+I found the one that is used in the above article
+https://huggingface.co/tohoku-nlp/bert-base-japanese
+
+It seem like the model is generated using below code
+Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
+Im analyzing it here [[bert-japanese]]
+
 

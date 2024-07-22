@@ -1,6 +1,6 @@
 ---
-id: 🎯 Deploy to Prod.md
-aliases: 
+id: 🎯 RECO-1587 - HTTP 503 API Bug
+aliases: []
 tags:
   - Project
   - Autoalt
@@ -10,6 +10,7 @@ Area:
 created: 16-02-2024 10:51
 status: Done
 ---
+
 # JIRA
 https://jira.unext-info.jp/browse/RECO-1587
 
@@ -17,7 +18,7 @@ https://jira.unext-info.jp/browse/RECO-1587
 * Made a  change in `leadtitle` to add probes - https://github.com/u-next/starship-app-central-leadtitle/pull/16
 	* - leadtitle consumes 0.01 cpu an prod, but we request 0.5cpu, i made adjustment to just request 0.05
 * Created this `Alert` to detect http 503 issues
-	* https://console.cloud.google.com/monitoring/alerting/policies/14811055356748677455?hl=en&project=unext-recommender-system
+* https://console.cloud.google.com/monitoring/alerting/policies/14811055356748677455?hl=en&project=unext-recommender-system
 
 # Investigation result
 * I think the main cause is that because we are not using `kubernetes probes`, the pod is receiving traffic even though the pod is not ready to receive it. This is very obvious with LeadTitle as it restarts every hour. 

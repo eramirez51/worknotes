@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
+                "file": "01-Projects/LLM/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
+                "file": "01-Projects/LLM/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
+                "file": "01-Projects/LLM/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Autoalt/🕎 00 - Semantic Layer.md"
+                "file": "01-Projects/LLM/Research.md"
               }
             }
           }
@@ -199,6 +199,11 @@
   },
   "active": "eb881394c71ebd51",
   "lastOpenFiles": [
+    "01-Projects/LLM/Research.md~",
+    "03-Resources/UsefulCommands/commands.md",
+    "Templates/note.md",
+    "01-Projects/LLM/Research.md",
+    "01-Projects/LLM",
     "01-Projects/Kredo/Secrets Management.md",
     "01-Projects/Kredo/Drawing 2024-07-18 10.08.29.excalidraw.md",
     "files/Clusters 1.svg",
@@ -207,7 +212,6 @@
     "files/Diagram 1.svg",
     "files/Diagram 1.svg.xml",
     "files",
-    "03-Resources/UsefulCommands/commands.md",
     "01-Projects/Kredo",
     "01-Projects/Hundred Alts/RECO-1616 - Prepare AB Metrics.md",
     "01-Projects/Hundred Alts/07- RECO-1513 Final adjustments.md",
@@ -221,33 +225,18 @@
     "01-Projects/Hundred Alts/RECO-1625 Deploy to Superusers.md",
     "01-Projects/Hundred Alts/files/Pasted image 20240617135709.png",
     "01-Projects/DevOps/RECO-1607 - Add Kubernetes Probes - Autoalts.md",
-    "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
-    "01-Projects/LLM/Research.md",
-    "Templates/note.md",
-    "03-Resources/UsefulCommands/commands.md",
-    "01-Projects/LLM",
     "02-Areas/Autoalt/files/HybridSolution.svg",
     "02-Areas/Autoalt/🕎 00 - Hundred Alts.md",
     "02-Areas/Autoalt/🕎 00 - Semantic Layer.md",
     "02-Areas/DailyNotes/2024-04-11.md",
     "02-Areas/DailyNotes/2024-04-10.md",
+    "01-Projects/Semantic Layer/RECO-1617 - Create Metrics using HundredAlts as example.md",
     "03-Resources/Obsidian Resources.md",
     "02-Areas/SearchHistorySuggester 1/🎯 Design.md",
     "01-Projects/DevOps/🎯 RECO-1587 - HTTP 503 API Bug.md",
     "02-Areas/DailyNotes/2024-04-02.md",
-    "02-Areas/DevOps/🎯 RECO-1591 - Adult DAG Parallelization.md",
     "01-Projects/Semantic Layer",
-    "02-Areas/Systems/🕎 00 - ToBQ.md",
     "02-Areas/Systems/DBT Canvas.canvas",
     "01-Projects/Sprint"
-    "02-Areas/Systems/🕎 00 - DBT.md",
-    "02-Areas/Autoalt/🕎 00 - SearchHistorySuggester.md",
-    "01-Projects/Sprint/41 - Sprint.md",
-    "01-Projects/Sprint",
-    "02-Areas/DevOps/🎯  RECO-1590 - ToBQ Partition Filter support.md",
-    "00-Inbox/Reading List.md",
-    "02-Areas/DailyNotes/2024-04-01.md",
-    "02-Areas/DailyNotes/2024-04-29.md",
-    "02-Areas/DailyNotes/2024-04-26.md"
   ]
 }
