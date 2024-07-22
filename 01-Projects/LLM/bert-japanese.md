@@ -120,8 +120,8 @@ python make_corpus_wiki.py \
 The above command shall generate the splitted sentences of the wiki. Example below
 
 ```bash
+❯ cd /home/eugene/apps/projects/temps/bert-japanese/.build/workdir/corpus/wikipedia/
 ❯ zless corpus.txt.gz
-❯ /home/eugene/apps/projects/temps/bert-japanese/.build/workdir/corpus/wikipedia/
 
 言語(げんご)は、狭義には「声による記号の体系」をいう。
 広辞苑や大辞泉には次のように解説されている。
