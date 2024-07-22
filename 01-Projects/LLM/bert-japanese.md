@@ -36,6 +36,9 @@ Check if `mecab` is installed successfully
 か      助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 EOS
 ```
-
+Then install `neologd`
+```bash
+sudo ./bin/install-mecab-ipadic-neologd
+```
 
 
