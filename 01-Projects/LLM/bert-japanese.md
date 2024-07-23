@@ -9,6 +9,7 @@ Source code: https://github.com/cl-tohoku/bert-japanese/tree/v2.0
 
 I want to make sure that my tokenizer is same as whats done by above repo, so I need to study it.
 
+I downloaded a `10GB` file from cirrussearch and saved it to `gs://ds-airflow-jobs/unexttokenizer/dev/data/jawiki-2024-07-15/`
 
 I need to learn how they use `neologd` to split the sentences
 
@@ -101,7 +102,6 @@ EOS
 ```
 
 # Process files for Wikipedia
-
 ```bash
 
 export WORK_DIR=/home/eugene/apps/projects/temps/bert-japanese/.build/workdir
@@ -160,4 +160,97 @@ Permissions Size User   Date Modified Name
 .rw-rw-r--  664M eugene 23 Jul 08:50  corpus_07.txt
 .rw-rw-r--  671M eugene 23 Jul 08:50  corpus_08.txt
 ```
+## Generate sample corpus for the tokenizer
 
+```bash
+cat $WORK_DIR/corpus/wikipedia/corpus_*.txt|grep -a -v '^$'|shuf|head -n 10000000 > $WORK_DIR/corpus/wikipedia/corpus_sampled.txt
+```
+# Next we need to prepare unidic `lex.csv`
+
+Download from the following 
+https://clrd.ninjal.ac.jp/unidic_archive/cwj/2.1.2/
+
+```bash
+curl -o ./.build/unidic-mecab-2.1.2_src.zip https://clrd.ninjal.ac.jp/unidic_archive/cwj/2.1.2/unidic-mecab-2.1.2_src.zip
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  134M  100  134M    0     0   9.8M      0  0:00:13  0:00:13 --:--:-- 9325k
+❯ cd ./.build
+❯ ls
+data  unidic-mecab-2.1.2_src.zip  workdir
+
+❯ unzip unidic-mecab-2.1.2_src.zip
+Archive:  unidic-mecab-2.1.2_src.zip
+ extracting: unidic-mecab-2.1.2_src/AUTHORS
+  inflating: unidic-mecab-2.1.2_src/BSD
+  inflating: unidic-mecab-2.1.2_src/COPYING
+  inflating: unidic-mecab-2.1.2_src/ChangeLog
+  inflating: unidic-mecab-2.1.2_src/GPL
+ extracting: unidic-mecab-2.1.2_src/INSTALL
+  inflating: unidic-mecab-2.1.2_src/LGPL
+  inflating: unidic-mecab-2.1.2_src/Makefile.am
+  inflating: unidic-mecab-2.1.2_src/Makefile.bat
+  inflating: unidic-mecab-2.1.2_src/Makefile.in
+ extracting: unidic-mecab-2.1.2_src/NEWS
+ extracting: unidic-mecab-2.1.2_src/README
+  inflating: unidic-mecab-2.1.2_src/aclocal.m4
+  inflating: unidic-mecab-2.1.2_src/char.def
+  inflating: unidic-mecab-2.1.2_src/configure
+  inflating: unidic-mecab-2.1.2_src/configure.ac
+  inflating: unidic-mecab-2.1.2_src/dicrc
+  inflating: unidic-mecab-2.1.2_src/feature.def
+  inflating: unidic-mecab-2.1.2_src/install-sh
+  inflating: unidic-mecab-2.1.2_src/left-id.def
+  inflating: unidic-mecab-2.1.2_src/lex.csv
+  inflating: unidic-mecab-2.1.2_src/matrix.def
+  inflating: unidic-mecab-2.1.2_src/missing
+  inflating: unidic-mecab-2.1.2_src/rewrite.def
+  inflating: unidic-mecab-2.1.2_src/right-id.def
+  inflating: unidic-mecab-2.1.2_src/unidic-mecab.pdf
+  inflating: unidic-mecab-2.1.2_src/unk.def
+```
+
+Inside, we can see the `lex.csv` file. We can start using that.
+
+```bash
+mkdir -p $WORK_DIR/tokenizers/alphabet
+python make_alphabet_from_unidic.py \
+--lex_file $DATA_DIR/unidic-mecab-2.1.2_src/lex.csv \
+--output_file $WORK_DIR/tokenizers/alphabet/unidic_lite.txt
+```
+Above command will generate the `unidic_lite.txt` file.
+
+```bash
+❯ head /home/eugene/apps/projects/temps/bert-japanese/.build/workdir/tokenizers/alphabet/unidic_lite.txt
+
+!
+"
+#
+$
+%
+&
+'
+(
+)
+```
+
+We may now start the tokenizer training
+
+```bash
+python train_tokenizer.py \
+--input_files $WORK_DIR/corpus/wikipedia/corpus_sampled.txt \
+--output_dir $WORK_DIR/tokenizers/wordpiece_unidic_lite \
+--pre_tokenizer_type mecab \
+--mecab_dic_type unidic_lite \
+--vocab_size 32768 \
+--limit_alphabet 7012 \
+--initial_alphabet_file $WORK_DIR/tokenizers/alphabet/unidic_lite.txt \
+--num_unused_tokens 10 \
+--wordpieces_prefix '##'
+
+INFO:__main__:Loading the initial alphabet from file
+INFO:__main__:The size of the initial alphabet: 7012
+INFO:__main__:Training the tokenizer
+[00:01:00] Pre-processing files (1434 Mo)
+```
