@@ -6,6 +6,8 @@ tags: []
 
 At the minimum, we need the folllowing files
 
+This below is for Ippan
+
 ```sql
 with people as (
 select 
@@ -39,5 +41,3 @@ select
 from `un-ds-dwh.staging.dim_sakuhin`
 inner join people using (sakuhin_public_code)
 ```
-
-
