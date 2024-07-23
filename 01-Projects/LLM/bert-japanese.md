@@ -254,3 +254,4 @@ INFO:__main__:The size of the initial alphabet: 7012
 INFO:__main__:Training the tokenizer
 [00:01:00] Pre-processing files (1434 Mo)
 ```
+
