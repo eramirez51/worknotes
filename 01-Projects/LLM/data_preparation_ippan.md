@@ -12,7 +12,6 @@ This below is for Ippan
 with people as (
 select 
   sakuhin_public_code,
-  count(*) as cnt,
   string_agg(case when cast_type_name = '出演' then normalize_person_name end, ', ') as actor,
   string_agg(case when cast_type_name = '声の出演' then normalize_person_name end, ', ') as voice_actor
 from (
@@ -32,7 +31,6 @@ from (
 select 
   sakuhin_public_code,
   sakuhin_name,
-  display_kana,
   highlight,
   story,
   main_genre_code,
