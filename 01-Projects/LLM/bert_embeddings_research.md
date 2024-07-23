@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-Goal of research
+# Goal of research
 I want to know best practices how to combine item fields for embedding.
 
 # Finding Your Perfect Movie Match: BERT LLM-Powered Movie Recommendations
