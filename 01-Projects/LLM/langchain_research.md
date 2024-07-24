@@ -1,8 +1,7 @@
 ---
-title: "Slack Bot"
-draft: false
-tags:
-  - 
+id: langchain_research
+aliases: []
+tags: []
 ---
 Gemine and Bigquery
 https://pub.towardsai.net/generate-data-insights-in-no-time-using-ai-85b8b3005a0f
