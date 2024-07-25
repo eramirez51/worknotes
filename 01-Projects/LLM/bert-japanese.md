@@ -48,6 +48,7 @@ EOS
 Then install `neologd`
 
 ```bash
+git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
 sudo ./bin/install-mecab-ipadic-neologd
 ```
 It started downloading `neologd` binaries
