@@ -141,9 +141,9 @@ Example
 Execute the following command for ippan
 
 ```bash
-poetry install && utoken prepgenerate \
+poetry install && utoken prep_generate \
 --data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv \
---output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.csv \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl \
 --template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/ippan.j2 \
 --header_key=sakuhin_public_code
 ```
@@ -151,8 +151,8 @@ poetry install && utoken prepgenerate \
 Execute the following command for book
 
 ```bash
-poetry install && utoken prepgenerate \
---output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.csv \
+poetry install && utoken prep_generate \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.jsonl \
 --data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv \
 --template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/book.j2 \
 --header_key=book_public_code
@@ -166,4 +166,7 @@ Writing rows to CSV: 100%|██████████████████
 
 I plan to use Gemini to convert these generated text to more fluent Japanese. Here is a good reference.
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/data-augmentation/data_augmentation_for_text.ipynb
+
+# Next, split the sentences
+
 

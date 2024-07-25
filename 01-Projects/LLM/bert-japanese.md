@@ -51,6 +51,13 @@ Then install `neologd`
 git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
 sudo ./bin/install-mecab-ipadic-neologd
 ```
+
+> Note, in Dockerfile, use `--asuser -y` as parameters to install successfully without using `sudo`
+
+```bash
+RUN cd neologd && ./bin/install-mecab-ipadic-neologd --asuser  -y
+```
+
 It started downloading `neologd` binaries
 
 ```bash
@@ -81,7 +88,9 @@ sudo mv /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd /var/lib/mecab/
 ```
 Replace `dicdir` in `/etc/mecabrc`
 
-`sudo vi /etc/mecabrc`
+```bash
+sudo vi /etc/mecabrc
+```
 
 Set `dicdir` to below
 ```bash
