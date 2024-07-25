@@ -95,8 +95,68 @@ left join book_tags bt using(book_sakuhin_id)
 
 # How to pull data from BQ
 
-I think I need to create a tool. But for now the plan si something like below
+I had to develop a tool to easily get this data from BQ and add it to to my `~/.zshrc.min` in my dotfiles
+https://u-next.slack.com/archives/C01P6HVJKNZ/p1721787063230909
 
 ```bash
-
+bq_to_gcs_csv \
+/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/sqls/book.sql \
+"gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/books.csv.gz"
 ```
+
+```bash
+bq_to_gcs_csv \
+/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/sqls/ippan.sql \
+"gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/ippan.csv.gz"
+```
+
+# Now download from GCS
+
+> Note
+> The uploaded data from previous step is gzipped, with `Content-Encoding:gzip` flag.
+> Because of this, the file will be autoamatically unzipped when downloaded.
+
+```bash
+gsutil cp gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/books.csv.gz /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv
+gsutil cp gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/ippan.csv.gz /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv
+```
+
+# Prepare the templates
+
+Now lets create the templates for ippan and book. (This is written in the project repo.)
+
+Example
+
+```jinja
+{%- if book_sakuhin_name|is_not_nan %}作品の名前は「{{book_sakuhin_name}}」。{% endif %}
+{%- if book_name|is_not_nan %}エピソードは「{{book_name}}」。{% endif %}
+{%- if book_introduction|is_not_nan %}{{book_introduction}}。{% endif %}
+{%- if catch_sentence|is_not_nan %}{{catch_sentence}}。{% endif %}
+{%- if tag_names|is_not_nan %}関連するタグは{{tag_names}}。{% endif %}
+{%- if media_type_code|is_not_nan %}ジャンルは{{media_type_code}}。{% endif %}
+{%- if pen_names|is_not_nan %}作者は{{pen_names}}。{% endif %}
+```
+
+# Generate the data
+Execute the following command for ippan
+
+```bash
+poetry install && utoken prepgenerate \
+--data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.csv \
+--template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/ippan.j2 \
+--header_key=sakuhin_public_code
+```
+
+Execute the following command for book
+
+```bash
+poetry install && utoken prepgenerate \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.csv \
+--data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv \
+--template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/book.j2 \
+--header_key=book_public_code
+```
+
+I plan to use Gemini to convert these generated text to more fluent Japanese. Here is a good reference.
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/data-augmentation/data_augmentation_for_text.ipynb
