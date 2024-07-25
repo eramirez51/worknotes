@@ -158,5 +158,11 @@ poetry install && utoken prepgenerate \
 --header_key=book_public_code
 ```
 
+```bash
+2024-07-25 10:07:41,166 - unexttokenizer.commands.commands - INFO - {'output_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.csv', 'data_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv', 'template_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/book.j2', 'header_key': 'book_public_code'}                                                                                                                                                                                                                                                                                             
+Writing rows to CSV: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 1602958/1602958 [01:25<00:00, 18843.09row/s]
+```
+
 I plan to use Gemini to convert these generated text to more fluent Japanese. Here is a good reference.
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/data-augmentation/data_augmentation_for_text.ipynb
+
