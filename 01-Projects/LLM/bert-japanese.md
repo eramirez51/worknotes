@@ -28,7 +28,7 @@ Prepare the dependencies
 ```bash
 sudo apt install mecab
 sudo apt install libmecab-dev
-sudo apt install mecab-ipadic-utf8
+s apt install mecab-ipadic-utf8
 ```
 
 Check if `mecab` is installed successfully
