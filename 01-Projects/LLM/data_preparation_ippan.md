@@ -170,6 +170,7 @@ https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/
 # Next, split the sentences
 
 Ippan
+
 ```bash
 poetry install && utoken prep_split \
   --input_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl \
@@ -178,6 +179,7 @@ poetry install && utoken prep_split \
   --max_text_length=300 \
   --mecab_option="-r /etc/mecabrc -d /var/lib/mecab/dic/mecab-ipadic-neologd"
 ```
+
 Book
 ```bash
 poetry install && utoken prep_split \
@@ -186,4 +188,5 @@ poetry install && utoken prep_split \
   --min_text_length=5 \
   --max_text_length=300 \
   --mecab_option="-r /etc/mecabrc -d /var/lib/mecab/dic/mecab-ipadic-neologd"
-
+```
+```
