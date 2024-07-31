@@ -34,7 +34,7 @@ s apt install mecab-ipadic-utf8
 Check if `mecab` is installed successfully
 
 ```bash
-❯ mecab
+ mecab
 特急はくたか
 特急    名詞,一般,*,*,*,*,特急,トッキュウ,トッキュー
 は      助詞,係助詞,*,*,*,*,は,ハ,ワ
@@ -52,10 +52,11 @@ git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
 sudo ./bin/install-mecab-ipadic-neologd
 ```
 
-> Note, in Dockerfile, use `--asuser -y` as parameters to install successfully without using `sudo`
+> [!Note]
+> In Dockerfile, use `--asuser -y` as parameters to install successfully without using `sudo`
 
 ```bash
-RUN cd neologd && ./bin/install-mecab-ipadic-neologd --asuser  -y
+RN cd neologd && ./bin/install-mecab-ipadic-neologd --asuser  -y
 ```
 
 It started downloading `neologd` binaries
@@ -264,4 +265,5 @@ INFO:__main__:The size of the initial alphabet: 7012
 INFO:__main__:Training the tokenizer
 [00:01:00] Pre-processing files (1434 Mo)
 ```
+
 
