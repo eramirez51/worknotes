@@ -21,7 +21,7 @@ Configure GCP Docker
 
 Fly login
 ```
-fly login -t starship --concourse-url http://prod1.concourse.infra.datascience-team.dev-unext.com/--username admin --password recoreco
+fly login -t starship --concourse-url http://prod1.concourse.infra.datascience-team.dev-unext.com --username admin --password recoreco
 ```
 
 
