@@ -205,13 +205,13 @@ poetry install && utoken prep_split \
 
 ```
 
+At this point, we have the book and ippan sentences that are ready to be mixed with the wiki corpus located. Copy that text to local
 
-Generate split sentences
+`gs://ds-airflow-jobs/unexttokenizer/dev/data/jawiki-2024-07-15/processeddata/wikipedia/corpus_sampled.txt`
 
 ```bash
 
-poetry install && utoken jsonl2csv \
---data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv \
---output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.csv
+gsutil cp gs://ds-airflow-jobs/unexttokenizer/dev/data/jawiki-2024-07-15/processeddata/wikipedia/corpus_sampled.txt \
+/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/corpus_sampled.txt
 
 ```

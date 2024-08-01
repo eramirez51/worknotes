@@ -9,19 +9,23 @@ tags: []
 First we need to prepare the alphabet
 
 ```bash
+
 pushd /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/
 curl -o unidic-mecab-2.1.2_src.zip https://clrd.ninjal.ac.jp/unidic_archive/cwj/2.1.2/unidic-mecab-2.1.2_src.zip 
   unzip unidic-mecab-2.1.2_src.zip 
 popd
+
 ```
 
 Execute the training
 ```bash
+
 poetry install && utoken train_tokenizer \
 --input_file /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_sentences.csv \
 --output_dir /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/tokenizer/model/ \
 --initial_alphabet_file /home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/unidic-mecab-2.1.2_src/lex.csv \
 --vocab_size 32768 
+
 
 # --pre_tokenizer_type mecab \
 # --mecab_dic_type unidic_lite \
