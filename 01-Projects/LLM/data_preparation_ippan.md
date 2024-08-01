@@ -99,15 +99,19 @@ I had to develop a tool to easily get this data from BQ and add it to to my `~/.
 https://u-next.slack.com/archives/C01P6HVJKNZ/p1721787063230909
 
 ```bash
+
 bq_to_gcs_csv \
 /home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/sqls/book.sql \
 "gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/books.csv.gz"
+
 ```
 
 ```bash
+
 bq_to_gcs_csv \
 /home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/sqls/ippan.sql \
 "gs://ds-airflow-jobs/unexttokenizer/dev/data/metadata/ippan.csv.gz"
+
 ```
 
 # Now download from GCS
@@ -141,24 +145,31 @@ Example
 Execute the following command for ippan
 
 ```bash
+
 poetry install && utoken prep_generate \
 --data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv \
---output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl.gz \
 --template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/ippan.j2 \
 --header_key=sakuhin_public_code
+
 ```
 
 Execute the following command for book
 
 ```bash
+
 poetry install && utoken prep_generate \
---output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.jsonl \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.jsonl.gz \
 --data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv \
 --template_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/book.j2 \
 --header_key=book_public_code
+
 ```
 
+
+
 Example run below.
+
 ```bash
 2024-07-25 10:07:41,166 - unexttokenizer.commands.commands - INFO - {'output_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.csv', 'data_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/books.csv', 'template_path': '/home/eugene/apps/projects/unext/ds-searchreco-customllm/lab/dataprep/templates/book.j2', 'header_key': 'book_public_code'}                                                                                                                                                                                                                                                                                             
 Writing rows to CSV: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 1602958/1602958 [01:25<00:00, 18843.09row/s]
@@ -172,21 +183,35 @@ https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/
 Ippan
 
 ```bash
+
 poetry install && utoken prep_split \
-  --input_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl \
-  --output_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_sentences.csv \
+  --input_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.jsonl.gz \
+  --output_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_sentences.csv.gz \
   --min_text_length=5 \
   --max_text_length=300 \
   --mecab_option="-r /etc/mecabrc -d /var/lib/mecab/dic/mecab-ipadic-neologd"
+
 ```
 
 Book
 ```bash
+
 poetry install && utoken prep_split \
-  --input_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.jsonl \
-  --output_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_sentences.csv \
+  --input_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_generated.jsonl.gz \
+  --output_file=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/book_sentences.csv.gz \
   --min_text_length=5 \
   --max_text_length=300 \
   --mecab_option="-r /etc/mecabrc -d /var/lib/mecab/dic/mecab-ipadic-neologd"
+
 ```
+
+
+Generate split sentences
+
+```bash
+
+poetry install && utoken jsonl2csv \
+--data_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/data/ippan.csv \
+--output_path=/home/eugene/apps/projects/unext/ds-searchreco-customllm/.build/prep/ippan_generated.csv
+
 ```
