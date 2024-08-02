@@ -28,7 +28,7 @@ Prepare the dependencies
 ```bash
 sudo apt install mecab
 sudo apt install libmecab-dev
-s apt install mecab-ipadic-utf8
+sudo apt install mecab-ipadic-utf8
 ```
 
 Check if `mecab` is installed successfully
@@ -54,10 +54,9 @@ sudo ./bin/install-mecab-ipadic-neologd
 
 > [!Note]
 > In Dockerfile, use `--asuser -y` as parameters to install successfully without using `sudo`
-
-```bash
-RN cd neologd && ./bin/install-mecab-ipadic-neologd --asuser  -y
-```
+> ```bash
+> RN cd neologd && ./bin/install-mecab-ipadic-neologd --asuser  -y
+> ```
 
 It started downloading `neologd` binaries
 
